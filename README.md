@@ -2,6 +2,8 @@
 
 An agent skill that edits AI-sounding text so it reads like the writer, without changing what it says. It works in Claude Code and in any agent that loads Agent Skills (a folder with a SKILL.md).
 
+Background, test results and a code review of the most-starred AI watermark removers: [I read the code behind GitHub's most-starred AI humanizers and watermark removers](https://sharminsirajudeen.github.io/blog/ai-humanizers-code-review/).
+
 It merges three MIT-licensed skills and adds two small deterministic checks:
 
 | Source | What this repo takes from it |
