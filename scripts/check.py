@@ -19,7 +19,7 @@ _M = re.IGNORECASE | re.MULTILINE
 
 # (name, strength, pattern). A strong tell justifies an edit on one sighting; a weak one needs company.
 RULES = [
-    ("dash", "strong", re.compile(r"\u2014| \u2013 | -- ")),
+    ("dash", "strong", re.compile(r"\u2014|(?<![\d%]) \u2013 (?![\d$\u00a3\u20ac])| -- ")),  # ranges like 3 \u2013 5 pass
     ("contrast", "strong", re.compile(
         r"\bnot (?:just|only|merely) [^.!?]{1,80}?\bbut\b"
         r"|\b(?:it's|it is|this is|that's|that is) not\b[^.!?]{1,60}?(?:[,;:.]| ?\u2014| \u2013| --) *(?:it's|it is|this is|that's|that is|but)\b"
@@ -120,9 +120,16 @@ def facts(text: str) -> set[tuple[str, str]]:
 
 
 def verify(original: str, rewrite: str) -> list[tuple[str, str]]:
-    """Items from ORIGINAL absent in REWRITE. Numbers compare without thousands separators."""
-    kept = facts(rewrite)
-    return sorted(i for i in facts(original) if i not in kept and (i[0] == "number" or i[1] not in rewrite))
+    """Items from ORIGINAL absent in REWRITE. Numbers ignore thousands separators; names ignore case."""
+    numbers = {value for kind, value in facts(rewrite) if kind == "number"}
+    lowered = rewrite.lower()
+
+    def kept(kind: str, value: str) -> bool:
+        if kind == "number":
+            return value in numbers
+        return value.lower() in lowered if kind == "name" else value in rewrite
+
+    return sorted(item for item in facts(original) if not kept(*item))
 
 
 def main(argv: list[str]) -> int:

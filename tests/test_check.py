@@ -26,6 +26,7 @@ class ScanFlags(unittest.TestCase):
         cases = {
             "The plan \u2014 announced today \u2014 is late.": "dash",
             "The changes -- long overdue -- start now.": "dash",
+            "The policy – announced today – is late.": "dash",
             "It's not just about speed, it's about trust.": "contrast",
             "This is not a tool. It's a mirror.": "contrast",
             "We want not only speed but also accuracy.": "contrast",
@@ -59,6 +60,11 @@ class ScanFlags(unittest.TestCase):
         for text, rule in cases.items():
             with self.subTest(text=text):
                 self.assertIn(("weak", rule), names(text))
+
+    def test_dashes_in_ranges_pass(self):
+        for text in ("Salary: CAD 140,000 – 165,000.", "Open April 3 – August 30, 2026.", "Fees: 5% – $20."):
+            with self.subTest(text=text):
+                self.assertNotIn(("strong", "dash"), names(text))
 
     def test_curly_apostrophe_is_normalized_for_rules(self):
         self.assertIn(("strong", "contrast"), names("It\u2019s not a bug, it\u2019s a feature."))
@@ -122,6 +128,10 @@ class Verify(unittest.TestCase):
     def test_headings_and_bold_labels_are_not_names(self):
         original = "# Unlocking The Power Of Caching\n- **Reliability:** Fewer outages at Northwind.\n"
         self.assertEqual(check.verify(original, "Caching gave fewer outages."), [("name", "Northwind")])
+
+    def test_capitalization_changes_are_not_drops(self):
+        original = "- **Offline Mode:** works without Wi-Fi at Fernwood.\n"
+        self.assertEqual(check.verify(original, "Offline mode works without wi-fi."), [("name", "Fernwood")])
 
     def test_acronyms_count_anywhere(self):
         self.assertIn(("name", "SynthID"), check.verify("SynthID marks images.", "The marks stay."))
