@@ -1,0 +1,20 @@
+Write a LinkedIn post announcing that Northwind Analytics, a 14-person startup in Austin, closed a $3.2 million seed round led by Harbor Ventures on March 4, 2026. About 180 words.
+Write a product description for the Kestrel K2 travel backpack: 28 liters, 1.1 kg, made from recycled nylon, priced at $149, with a lifetime warranty. About 150 words.
+Write a cold email from Priya Raman, founder of Ledgerline, to a finance director, offering a 30-day free trial of an invoice reconciliation tool that cut month-end close from 9 days to 4 for a pilot customer. About 150 words.
+Write a cover letter paragraph for a data analyst with 6 years of experience applying to the Portland transit department, mentioning a project that reduced bus bunching complaints by 18 percent. About 150 words.
+Write the opening section of a README for tidepool, an open-source Python library (MIT license, version 0.4.0) that schedules cron-style jobs in async applications and requires Python 3.11 or later. About 150 words.
+Write a travel blog introduction about a weekend in Porto, Portugal, mentioning the Livraria Lello bookshop, a 6 euro francesinha at Cafe Santiago, and the Dom Luis I bridge at sunset. About 180 words.
+Write release notes for version 2.7.0 of the Fernwood mobile app: a new offline mode, a 40 percent faster cold start, a fix for the login loop on Android 15, and dropped support for iOS 16. About 150 words.
+Write an About Us page for Saltmarsh Bakery, founded in 2011 by sisters Ana and Leila Haddad in Portland, Maine, which bakes 600 loaves a day with flour from a mill 40 miles away. About 170 words.
+Write the introduction to issue 112 of a weekly newsletter for product managers, covering pricing experiments, a new survey of 1,400 product managers, and a guest interview with Dana Whitfield. About 150 words.
+Write a conference talk abstract for Shipping On-Device ML on a 2 GB Phone by Tomas Ferreira at MobileConf 2026 in Lisbon, about cutting a model from 410 MB to 38 MB. About 150 words.
+Write a Slack update from an engineering manager to the team: the database migration finished on Tuesday with 2 hours of downtime instead of the planned 6, and one bug remains in the billing export. About 120 words.
+Write a customer support reply to a user named Marcus who was charged twice for a $29 Pro subscription on May 2; the refund has been issued and takes 5 to 7 business days. About 120 words.
+Write an opinion piece paragraph arguing that Leeds should keep the number 42 bus route, which carries 3,100 riders a day and connects two hospitals. About 170 words.
+Write a recipe introduction for a weeknight red lentil soup that takes 35 minutes, serves 4, and uses cumin and lemon. About 150 words.
+Write a course description for Statistics for Product Teams, a 6-week online course taught by Dr. Helen Okafor, starting September 8 and costing $480. About 150 words.
+Write a job post for a backend engineer at Quillstone, a 40-person fintech company in Toronto, working in Go and PostgreSQL, with a salary of CAD 140,000 to 165,000 and 2 office days a week. About 170 words.
+Write a LinkedIn post by a nurse manager reflecting on 10 years at St. Brendan's Hospital and what 12-hour night shifts taught her about teamwork. About 180 words.
+Write a museum exhibit description for Salt and Iron: The Hanseatic Trade, open April 3 to August 30, 2026, featuring 140 objects including a timber from a 14th-century cog ship. About 150 words.
+Write a grant proposal summary for a community garden project in Durban that will convert 2 vacant lots into 60 plots, with a budget of R850,000 over 18 months. About 160 words.
+Write a personal blog paragraph about learning to bake sourdough after moving from Chicago to Denver, including the 3 failed loaves before the first good one. About 170 words.
