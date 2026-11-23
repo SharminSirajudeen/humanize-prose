@@ -33,6 +33,10 @@ python3 scripts/check.py scan draft.md            # mechanical tells; exit 1 on 
 python3 scripts/check.py verify draft.md new.md   # numbers, names, links, and code a rewrite dropped
 ```
 
+## Results
+
+On 20 AI-written samples rewritten by Claude Sonnet 5.5 with no tools, humanize-prose matched blader/humanizer 4.0.0 on tells removed and facts kept, at 56% fewer input tokens per run (5,389 against 12,300). avoid-ai-writing's detector flagged uniform sentence rhythm in 4 of its rewrites and in none of blader's. The method, tables, and every output are in [evals/](evals/).
+
 ## Scope
 
 The skill edits for human readers. It does not try to get past AI detectors or remove watermarks, and detectors may still flag its output.

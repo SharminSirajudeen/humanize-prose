@@ -1,0 +1,662 @@
+[
+ {
+  "sample": "01",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 203,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 125,
+    "dropped": 0,
+    "input_tokens": 12360,
+    "output_tokens": 740,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 120,
+    "dropped": 0,
+    "input_tokens": 5449,
+    "output_tokens": 245,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "02",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 165,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 124,
+    "dropped": 1,
+    "input_tokens": 12319,
+    "output_tokens": 255,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 98,
+    "dropped": 2,
+    "input_tokens": 5408,
+    "output_tokens": 225,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "03",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 188,
+    "detector_score": 1,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 148,
+    "dropped": 3,
+    "input_tokens": 12344,
+    "output_tokens": 655,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 143,
+    "dropped": 3,
+    "input_tokens": 5433,
+    "output_tokens": 912,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "04",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 158,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 152,
+    "dropped": 0,
+    "input_tokens": 12255,
+    "output_tokens": 269,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 137,
+    "dropped": 0,
+    "input_tokens": 5344,
+    "output_tokens": 819,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "05",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 4,
+    "words": 157,
+    "detector_score": 2,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 119,
+    "dropped": 2,
+    "input_tokens": 12413,
+    "output_tokens": 901,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 108,
+    "dropped": 2,
+    "input_tokens": 5502,
+    "output_tokens": 998,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "06",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 1,
+    "words": 171,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 1,
+    "words": 143,
+    "dropped": 0,
+    "input_tokens": 12323,
+    "output_tokens": 306,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 146,
+    "dropped": 0,
+    "input_tokens": 5412,
+    "output_tokens": 1297,
+    "detector_score": 3,
+    "detector_findings": 1
+   }
+  }
+ },
+ {
+  "sample": "07",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 1,
+    "words": 173,
+    "detector_score": 2,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 119,
+    "dropped": 3,
+    "input_tokens": 12314,
+    "output_tokens": 242,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 139,
+    "dropped": 0,
+    "input_tokens": 5403,
+    "output_tokens": 285,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "08",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 1,
+    "weak": 1,
+    "words": 183,
+    "detector_score": 0,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 1,
+    "words": 166,
+    "dropped": 0,
+    "input_tokens": 12313,
+    "output_tokens": 1402,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 1,
+    "words": 172,
+    "dropped": 0,
+    "input_tokens": 5402,
+    "output_tokens": 964,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "09",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 156,
+    "detector_score": 4,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 145,
+    "dropped": 0,
+    "input_tokens": 12249,
+    "output_tokens": 259,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 138,
+    "dropped": 0,
+    "input_tokens": 5338,
+    "output_tokens": 980,
+    "detector_score": 4,
+    "detector_findings": 1
+   }
+  }
+ },
+ {
+  "sample": "10",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 155,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 155,
+    "dropped": 0,
+    "input_tokens": 12276,
+    "output_tokens": 762,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 152,
+    "dropped": 0,
+    "input_tokens": 5365,
+    "output_tokens": 760,
+    "detector_score": 7,
+    "detector_findings": 2
+   }
+  }
+ },
+ {
+  "sample": "11",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 130,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 106,
+    "dropped": 0,
+    "input_tokens": 12189,
+    "output_tokens": 182,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 104,
+    "dropped": 0,
+    "input_tokens": 5278,
+    "output_tokens": 180,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "12",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 1,
+    "weak": 0,
+    "words": 123,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 88,
+    "dropped": 0,
+    "input_tokens": 12202,
+    "output_tokens": 179,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 88,
+    "dropped": 0,
+    "input_tokens": 5291,
+    "output_tokens": 181,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "13",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 182,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 157,
+    "dropped": 0,
+    "input_tokens": 12286,
+    "output_tokens": 993,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 162,
+    "dropped": 0,
+    "input_tokens": 5375,
+    "output_tokens": 1080,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "14",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 149,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 114,
+    "dropped": 0,
+    "input_tokens": 12264,
+    "output_tokens": 235,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 106,
+    "dropped": 0,
+    "input_tokens": 5353,
+    "output_tokens": 215,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "15",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 147,
+    "detector_score": 2,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 125,
+    "dropped": 0,
+    "input_tokens": 12291,
+    "output_tokens": 279,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 112,
+    "dropped": 0,
+    "input_tokens": 5380,
+    "output_tokens": 242,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "16",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 1,
+    "words": 178,
+    "detector_score": 2,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 1,
+    "words": 183,
+    "dropped": 0,
+    "input_tokens": 12327,
+    "output_tokens": 880,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 168,
+    "dropped": 0,
+    "input_tokens": 5416,
+    "output_tokens": 930,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "17",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 1,
+    "weak": 0,
+    "words": 186,
+    "detector_score": 2,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 173,
+    "dropped": 0,
+    "input_tokens": 12355,
+    "output_tokens": 351,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 176,
+    "dropped": 0,
+    "input_tokens": 5444,
+    "output_tokens": 352,
+    "detector_score": 3,
+    "detector_findings": 1
+   }
+  }
+ },
+ {
+  "sample": "18",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 152,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 129,
+    "dropped": 0,
+    "input_tokens": 12280,
+    "output_tokens": 1143,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 125,
+    "dropped": 0,
+    "input_tokens": 5369,
+    "output_tokens": 1039,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "19",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 170,
+    "detector_score": 6,
+    "detector_findings": 2
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 171,
+    "dropped": 0,
+    "input_tokens": 12335,
+    "output_tokens": 349,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 169,
+    "dropped": 0,
+    "input_tokens": 5424,
+    "output_tokens": 358,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "20",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 185,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 183,
+    "dropped": 0,
+    "input_tokens": 12314,
+    "output_tokens": 686,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 173,
+    "dropped": 0,
+    "input_tokens": 5403,
+    "output_tokens": 724,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ }
+]

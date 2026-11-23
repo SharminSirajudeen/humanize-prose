@@ -11,6 +11,17 @@ A head-to-head test of humanize-prose against blader/humanizer 4.0.0 (commit `a3
 
 One rewrite per sample per skill, so expect some run-to-run variation.
 
+Two check.py bugs surfaced while reading the first scores: it flagged spaced en dashes in number and date ranges, which the skill allows, and verify counted lowercased label words ("Offline Mode" to "offline mode") as dropped names. Both were fixed, with regression tests, before these tables were generated. The raw outputs did not change, and the fixes apply to both skills.
+
+## Findings
+
+Run on 2026-11-24 with claude-sonnet-5-5 through Claude Code 2.1.329. Full tables are in `results.md`.
+
+- Tells: both skills removed every strong tell. The samples carried only 3 to begin with, so this run says more about cost and damage than about cleanup.
+- Facts: a tie. blader/humanizer dropped 9 items across 4 samples, humanize-prose 7 across 3.
+- Cost: humanize-prose used 56% fewer input tokens per run (5,389 against 12,300).
+- Rhythm: avoid-ai-writing flagged uniform sentence length or punctuation in 4 humanize-prose rewrites and in none of blader's.
+
 ## Files
 
 - `results.md`: the summary and per-sample tables.
