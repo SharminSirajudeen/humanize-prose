@@ -26,7 +26,7 @@ Update with `git -C ~/.claude/skills/humanize-prose pull`. For other agents, cop
 
 Ask in plain words: "humanize this", "remove the AI tells from README.md", or "does this read as AI? don't rewrite it".
 
-The script also runs on its own. It needs Python 3.9 or later and nothing else:
+The script also runs on its own. It needs Python 3.10 or later and nothing else:
 
 ```bash
 python3 scripts/check.py scan draft.md            # mechanical tells; exit 1 on a strong one
