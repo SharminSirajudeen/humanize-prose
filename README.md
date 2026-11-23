@@ -12,7 +12,7 @@ It merges three MIT-licensed skills and adds two small deterministic checks:
 | [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) | Minimum-effective-edit and voice rules, detect mode, the portability test, colon reveals, synonym cycling, the self-check |
 | [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | The idea of a deterministic scan that exempts quotes and code, and a check that a rewrite kept the original's facts |
 
-Compared with blader/humanizer 4.0.0, SKILL.md is 38% of the size (12.7 KB against 33.6 KB), adds a detect-only mode, and hands mechanical checks to a script so the model spends its tokens on rewriting. The examples are new and short. The scan and verify ideas from avoid-ai-writing are reimplemented in one stdlib file of about 150 lines instead of its 3,762-line pattern file.
+Compared with blader/humanizer 4.0.0, SKILL.md is 40% of the size (13.4 KB against 33.6 KB), adds a detect-only mode, and hands mechanical checks to a script so the model spends its tokens on rewriting. The examples are new and short. The scan and verify ideas from avoid-ai-writing are reimplemented in one stdlib file of about 150 lines instead of its 3,762-line pattern file.
 
 ## Install
 
@@ -37,7 +37,7 @@ python3 scripts/check.py verify draft.md new.md   # numbers, names, links, and c
 
 ## Results
 
-On 20 AI-written samples rewritten by Claude Sonnet 5.5 with no tools, humanize-prose matched blader/humanizer 4.0.0 on tells removed and facts kept, at 56% fewer input tokens per run (5,389 against 12,300). avoid-ai-writing's detector flagged uniform sentence rhythm in 4 of its rewrites and in none of blader's. The method, tables, and every output are in [evals/](evals/).
+On 20 AI-written samples rewritten by Claude Sonnet 5.5 with no tools, humanize-prose matched blader/humanizer 4.0.0 on tells removed and facts kept, at 55% fewer input tokens per run (5,595 against 12,300). The first version wrote flatter rhythm, so SKILL.md now treats flat rhythm as a tell. Sentence lengths in its rewrites now vary slightly more than blader's on average, though avoid-ai-writing's detector still flags uniform sentence length or punctuation in 3 of them and in none of blader's. The method, tables, and every output are in [evals/](evals/).
 
 ## Scope
 

@@ -1,8 +1,8 @@
 {
- "result": "When I moved from Chicago to Denver, nobody warned me that altitude would humble me in the kitchen. I'd been baking sourdough casually for years at sea-level-ish elevation, so I assumed my starter, Gerald, would travel just fine. He did not. My first loaf came out dense as a paving stone, with a crust that could have doubled as a frisbee. The second overproofed in the dry mountain air and slumped into a sad, sprawling pancake. The third looked gorgeous going in, then collapsed the moment I scored it, and I may have said some things to the oven. I almost gave up and bought a loaf from the bakery down the street. Instead, I read up on high-altitude adjustments, cut my proofing time, bumped up the hydration, and started covering the dough more carefully. Loaf number four finally rose tall, with a crackly crust and an open, tender crumb. I stood in my kitchen, tearing off warm pieces, feeling like I'd finally arrived in Colorado. Gerald and I have a rhythm now.",
+ "result": "When I moved from Chicago to Denver, nobody warned me that altitude would humble me in the kitchen. I'd been baking sourdough casually for years at sea-level-ish elevation, so I assumed my starter, Gerald, would travel just fine. He did not. My first loaf came out dense as a paving stone, with a crust that could have doubled as a frisbee. The second overproofed in the dry mountain air and slumped into a sad, sprawling pancake. The third looked gorgeous going in, then collapsed the moment I scored it, and I may have said some things to the oven. I almost gave up and bought a loaf from the bakery down the street. Instead, I read up on high-altitude adjustments, cut my proofing time, bumped up the hydration, and started covering the dough more carefully. Loaf number four finally rose tall, with a crackly crust and an open, tender crumb. I stood in my kitchen, tearing off warm pieces, feeling like I'd finally arrived in Colorado. Gerald and I have a real rhythm now.",
  "is_error": false,
  "model": "claude-sonnet-5-5",
- "duration_ms": 5522,
- "input_tokens": 5403,
- "output_tokens": 724
+ "duration_ms": 5005,
+ "input_tokens": 5609,
+ "output_tokens": 647
 }

@@ -1,8 +1,8 @@
 {
- "result": "# About Saltmarsh Bakery\n\nSaltmarsh Bakery began in 2011 with two sisters, a rented oven, and a shared belief that good bread shouldn't be complicated. Ana and Leila Haddad grew up in kitchens where bread was always on the table, and they opened their first shop in Portland, Maine, hoping to bring that same warmth to their neighbors.\n\nWe bake 600 loaves a day. Each one starts with flour from a mill 40 miles away, where the grain is milled by people we know by name. Keeping our supply close means fresher flour, which gives better flavor, and it supports the local community. It also means our bread tastes like this place: the coast, the seasons, and the farmland just inland.\n\nWe work the old way. Our dough rises slowly, our loaves are shaped by hand, and our ovens start well before sunrise so the shelves are full when you walk in.\n\nStop by for a morning baguette or a country loaf for dinner. We're glad you're here.\n\nAna & Leila Haddad",
+ "result": "# About Saltmarsh Bakery\n\nSaltmarsh Bakery began in 2011 with two sisters, a rented oven, and a shared belief that good bread shouldn't be complicated. Ana and Leila Haddad grew up in kitchens where bread was always on the table, and they opened their first shop in Portland, Maine, hoping to bring that same warmth to their neighbors.\n\nToday we bake 600 loaves every day. Each one starts with flour from a mill just 40 miles away, where the grain is milled by people we know by name. Keeping our supply close means fresher flour and better flavor, and it strengthens the local community. It also means our bread tastes like this place: the coast, the seasons, and the farmland just inland.\n\nWe work the old way. Our dough rises slowly, our loaves are shaped by hand, and our ovens start well before sunrise so the shelves are full when you walk in.\n\nWhether you want a morning baguette or a country loaf for dinner, we're glad you're here.\n\nAna & Leila Haddad",
  "is_error": false,
  "model": "claude-sonnet-5-5",
- "duration_ms": 7123,
- "input_tokens": 5402,
- "output_tokens": 964
+ "duration_ms": 8198,
+ "input_tokens": 5608,
+ "output_tokens": 1186
 }

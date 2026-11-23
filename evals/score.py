@@ -11,10 +11,11 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
-from statistics import mean
+from statistics import mean, pstdev
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent / "scripts"))
@@ -35,10 +36,16 @@ def load(name: str) -> dict | None:
     return data if data and not data["is_error"] and data["result"].strip() else None
 
 
+def rhythm(text: str) -> float:
+    """Spread of sentence lengths (standard deviation over mean), split the way avoid-ai-writing splits."""
+    lengths = [len(s.split()) for s in re.split(r"[.!?]+", text) if len(s.strip()) > 5]
+    return pstdev(lengths) / mean(lengths) if len(lengths) > 1 else 0.0
+
+
 def measure(text: str, original: str | None) -> dict:
     findings = check.scan(text)
     strong = sum(f[1] == "strong" for f in findings)
-    row = {"strong": strong, "weak": len(findings) - strong, "words": len(text.split())}
+    row = {"strong": strong, "weak": len(findings) - strong, "words": len(text.split()), "rhythm": rhythm(text)}
     if original is not None:
         row["dropped"] = len(check.verify(original, text))
     return row
@@ -74,6 +81,7 @@ def add_detector(rows: list[dict], detector: str) -> None:
 def summary(rows: list[dict], detected: bool) -> list[str]:
     def total(key, k): return f"{sum(r['metrics'][k][key] for r in rows):,}"
     def average(key, k): return f"{mean(r['metrics'][k][key] for r in rows):,.1f}"
+    def spread(key, k): return f"{mean(r['metrics'][k][key] for r in rows):.2f}"
     def tokens(key, k): return f"{mean(r['metrics'][k][key] for r in rows):,.0f}"
     def dropped_any(_, k): return str(sum(r["metrics"][k]["dropped"] > 0 for r in rows))
     measures = [("Strong tells (check.py), total", "strong", total, COLUMNS),
@@ -84,6 +92,7 @@ def summary(rows: list[dict], detected: bool) -> list[str]:
     measures += [("Facts dropped (numbers, names, links, code), total", "dropped", total, ARMS),
                   ("Samples with at least one fact dropped", "dropped", dropped_any, ARMS),
                   ("Words, mean", "words", average, COLUMNS),
+                  ("Sentence-length spread, mean (higher varies more)", "rhythm", spread, COLUMNS),
                   ("Input tokens per run, mean", "input_tokens", tokens, ARMS),
                   ("Output tokens per run, mean", "output_tokens", tokens, ARMS)]
     lines = ["| Measure | " + " | ".join(HEADERS) + " |", "| --- | ---: | ---: | ---: |"]

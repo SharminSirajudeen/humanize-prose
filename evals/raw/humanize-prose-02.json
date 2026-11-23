@@ -1,8 +1,8 @@
 {
- "result": "**Kestrel K2 Travel Backpack**\n\nThe Kestrel K2 is a 28-liter backpack that weighs 1.1 kg. It holds enough for a long weekend or a week on the road.\n\nThe body is recycled nylon, which handles rain, rough handling, and crowded overhead bins. The seams are reinforced and the zippers run smoothly.\n\nThe main compartment opens clamshell-style for easy packing. Separate pockets hold a laptop, passport, chargers, and daily items. Padded shoulder straps and a breathable back panel keep it comfortable from airport to city street to mountain trail.\n\nThe K2 costs $149 and comes with a lifetime warranty.",
+ "result": "**Kestrel K2 Travel Backpack**\n\nThe Kestrel K2 is a 28-liter backpack that weighs 1.1 kg. It holds enough for a long weekend or a week on the road, and you won't notice it on your back.\n\nThe body is recycled nylon that holds up against rain, rough handling, and crowded overhead bins. The seams are reinforced and the zippers run smoothly.\n\nThe main compartment is a clamshell that opens wide for packing. Separate pockets hold your laptop, passport, chargers, and daily items. Padded shoulder straps and a breathable back panel keep it comfortable from the airport gate to the city street to a mountain trail.\n\nThe K2 costs $149 and comes with a lifetime warranty.\n\n**Kestrel K2. Built to go the distance.**",
  "is_error": false,
  "model": "claude-sonnet-5-5",
- "duration_ms": 2485,
- "input_tokens": 5408,
- "output_tokens": 225
+ "duration_ms": 2878,
+ "input_tokens": 5614,
+ "output_tokens": 262
 }

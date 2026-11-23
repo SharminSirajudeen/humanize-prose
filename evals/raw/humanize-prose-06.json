@@ -1,8 +1,8 @@
 {
- "result": "# Forty-eight hours in Porto\n\nPorto sneaks up on you, one tiled facade and crooked cobblestone lane at a time. I arrived on a Friday afternoon with a loose plan and a pair of comfortable shoes, and by Sunday evening I was already plotting my return.\n\nSaturday began at Livraria Lello, among the carved wooden shelves and the scarlet staircase, in a bookshop so beautiful it feels odd to call it a shop. Go early, buy your ticket ahead, and leave time to look up at the stained-glass ceiling.\n\nLunch was a francesinha at Café Santiago: a towering sandwich of cured meats and steak, blanketed in melted cheese and drowned in a tomato-beer sauce. At 6 euros, it was the best-value meal of the trip, and I regret nothing.\n\nThe finale was sunset at the Dom Luís I Bridge, when the Douro turned to molten gold.",
+ "result": "# Forty-eight hours in Porto\n\nPorto sneaks up on you, one tiled facade and crooked cobblestone lane at a time. I arrived on a Friday afternoon with a loose plan and a pair of comfortable shoes, and by Sunday evening I was already plotting my return.\n\nSaturday began among the carved wooden shelves and scarlet staircase of Livraria Lello, a bookshop so beautiful it feels almost unfair to call it a shop. Go early, buy your ticket ahead, and give yourself time to look up at the stained-glass ceiling.\n\nLunch was a francesinha at Café Santiago, a towering sandwich of cured meats and steak, blanketed in melted cheese and drowned in a rich tomato-beer sauce. At 6 euros, it was the best-value meal of the trip. I regret nothing.\n\nI ended the day on the Dom Luís I Bridge at sunset, when the Douro turned to molten gold.",
  "is_error": false,
  "model": "claude-sonnet-5-5",
- "duration_ms": 8824,
- "input_tokens": 5412,
- "output_tokens": 1297
+ "duration_ms": 7979,
+ "input_tokens": 5618,
+ "output_tokens": 1109
 }

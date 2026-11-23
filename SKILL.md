@@ -26,9 +26,9 @@ Embedded. When another task (a pull request, commit message, or document) uses t
 
 1. Scan. If you can run commands, run `python3 <skill-dir>/scripts/check.py scan FILE`, or pipe the text on stdin. It flags mechanical tells and skips code, links, blockquotes, and quoted spans. Then read the whole text yourself for the structural tells a script cannot see, including tells at paragraph scale.
 2. Find the voice. With a writing sample, match its sentence length, word choice, punctuation, openings, and transitions. The sample overrides the rules here, dashes included. Without one, match the genre: personal writing keeps opinions, doubt, humor, and asides; technical, legal, and reference text stays plain and neutral.
-3. Rewrite. State each point directly instead of patching flagged phrases one at a time. Shorten dull parts, merge or split sentences, and reorder when it helps the reader. Prefer active voice with a named actor. Vary sentence length. Never add a claim, number, example, quote, or source the writer did not give you: ask, or write a simpler sentence.
+3. Rewrite. State each point directly instead of patching flagged phrases one at a time. Shorten dull parts, merge or split sentences, and reorder when it helps the reader. Prefer active voice with a named actor. Vary sentence length (9). Never add a claim, number, example, quote, or source the writer did not give you: ask, or write a simpler sentence.
 4. Verify. Save the original and the rewrite to files and run `python3 <skill-dir>/scripts/check.py verify ORIGINAL REWRITE`. Restore anything it reports missing unless a pattern below called for cutting it. Then reread for the tells that most often survive a rewrite: contrasts (1), closers (2), triads (8), dashes (10), and bold labels (21).
-5. Self-check before returning. The writer would recognize the voice. The amount of cutting matches the amount of slop. No strong tell remains. The output matches the mode.
+5. Self-check before returning. The writer would recognize the voice. The amount of cutting matches the amount of slop. If the whole text has five or more sentences, at least one of them runs under 10 words, not counting headings and list items; if none does, split a compound sentence at its "and" or "but" (9). No strong tell remains. The output matches the mode.
 
 If you cannot run commands, do steps 1 and 4 by reading.
 
@@ -56,7 +56,8 @@ The strongest tells. One sighting justifies an edit.
 8. Forced triads. Ideas arrive in threes to sound complete: three adjectives, three parallel examples, or three short facts and a lesson. Keep three items only when the meaning has three parts. Otherwise merge them or develop the strongest one.
    Before: "Attendees can expect innovation, inspiration, and insights." After: "The talks run all morning, with time to meet people after."
 
-9. Same shape every sentence. Several sentences in a row open with the same subject, share one length, or stack short punchy fragments. Merge, change the subject, or lead with the action. Deliberate repetition for rhythm is fine.
+9. Same shape every sentence. Several sentences in a row open with the same subject or stack short punchy fragments, or most sentences land within a few words of the same length, often 15 to 25. Paragraphs go flat the same way when each has the same number of sentences and the same cadence. Split a compound sentence so a short one stands alone, let another run long with its example or qualifier, merge two, or change the subject. Put a terse paragraph next to a fuller one. Deliberate repetition for rhythm is fine.
+   Before: "The new scheduler cut build times by a third, and most teams switched to it within a month." After: "The new scheduler cut build times by a third. Most teams switched within a month."
 
 10. Dashes as the default connector. The final text has no em dashes, spaced en dashes, or double hyphens used as dashes, unless the writer's sample uses them; then match its rate. Use a period, comma, colon, or parentheses, or rewrite the sentence. Leave dashes in code, commands, paths, URLs, and number ranges alone. One dash is weak evidence on its own; a text full of them is not.
 

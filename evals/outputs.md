@@ -53,11 +53,11 @@ We're hiring. If you want to help build this, get in touch.
 ````text
 Northwind Analytics has closed a $3.2 million seed round led by Harbor Ventures. The round wrapped on March 4, 2026.
 
-We started Northwind because we think teams shouldn't need a data science degree to make decisions from their data. There are 14 of us now, working on that with our customers.
+We started Northwind because we believed teams shouldn't need a data science degree to make decisions from their data. We're 14 people in Austin now, and the funding will go toward more engineers and product people, faster work on the core analytics platform, and support for the customers who signed on early.
 
-The money will go toward hiring engineers and product people, building out the core analytics platform, and supporting the customers who signed on early.
+Harbor Ventures, thank you for backing us. We're glad to be building with you.
 
-Thank you to Harbor Ventures for backing us. Thank you also to our customers, advisors, families, and the Northwind team for the late nights and the honest feedback.
+To our customers, advisors, families, and the Northwind team: thank you for the late nights and the honest feedback.
 
 We're hiring. If you want to help build this, get in touch.
 
@@ -103,13 +103,15 @@ The K2 costs $149 and comes with a lifetime warranty.
 ````text
 **Kestrel K2 Travel Backpack**
 
-The Kestrel K2 is a 28-liter backpack that weighs 1.1 kg. It holds enough for a long weekend or a week on the road.
+The Kestrel K2 is a 28-liter backpack that weighs 1.1 kg. It holds enough for a long weekend or a week on the road, and you won't notice it on your back.
 
-The body is recycled nylon, which handles rain, rough handling, and crowded overhead bins. The seams are reinforced and the zippers run smoothly.
+The body is recycled nylon that holds up against rain, rough handling, and crowded overhead bins. The seams are reinforced and the zippers run smoothly.
 
-The main compartment opens clamshell-style for easy packing. Separate pockets hold a laptop, passport, chargers, and daily items. Padded shoulder straps and a breathable back panel keep it comfortable from airport to city street to mountain trail.
+The main compartment is a clamshell that opens wide for packing. Separate pockets hold your laptop, passport, chargers, and daily items. Padded shoulder straps and a breathable back panel keep it comfortable from the airport gate to the city street to a mountain trail.
 
 The K2 costs $149 and comes with a lifetime warranty.
+
+**Kestrel K2. Built to go the distance.**
 ````
 
 ## Sample 03
@@ -167,15 +169,15 @@ Founder, Ledgerline
 ### humanize-prose
 
 ````text
-**Subject:** Cutting month-end close from 9 days to 4
+Subject: Cutting month-end close from 9 days to 4
 
 Hi [First Name],
 
-One of our pilot customers used to take nine days to close the books, and invoice reconciliation was the biggest bottleneck. After switching to Ledgerline, their close dropped to 4 days.
+Closing the books shouldn't take nine days. For one of our pilot customers, it used to, and invoice reconciliation was the biggest bottleneck.
 
-Ledgerline automatically matches invoices against purchase orders and payments, flags exceptions for review, and leaves your team to handle only the ones that need a person.
+After switching to Ledgerline, their close dropped from 9 days to 4. Our tool matches invoices against purchase orders and payments, flags exceptions for review, and leaves your team to handle only what needs a person.
 
-I'd love for your team at [Company] to try it. The 30-day free trial has no commitment and requires no credit card. We'll help with setup, so you can see results within your next close cycle.
+I'd like your team at [Company] to try it. We're offering a 30-day free trial, with no commitment and no credit card required. We'll help with setup, so you can see results within your next close cycle.
 
 Would you be open to a 15-minute call this week or next to see if it's a fit? If it's easier, just reply "interested" and I'll send over trial details.
 
@@ -209,7 +211,11 @@ I would like to bring that same mix of technical rigor, collaboration, and focus
 ### humanize-prose
 
 ````text
-I have spent six years as a data analyst turning operational data into decisions that affect people's daily lives, and that is why I'm applying to the Portland transit department. In my most recent role, I led an analysis of service patterns and schedule adherence to find out why buses were arriving in clusters, leaving riders with long waits followed by crowded vehicles. I combined GPS location data, dwell times, and rider feedback to identify the stops and time periods where bunching was worst, then recommended targeted changes to scheduling and dispatch practices. After they were implemented, bunching-related complaints dropped by 18 percent. The project also gave frontline staff clear dashboards they could use every day. I would welcome the chance to bring this work to Portland's transit system and help make service more reliable for riders.
+I have worked as a data analyst for six years, turning operational data into decisions that affect how people get around. That is why the Portland transit department appeals to me.
+
+In my most recent role, I led an analysis of service patterns and schedule adherence to find out why buses were arriving in clusters. Riders faced long waits followed by crowded vehicles. I combined GPS location data, dwell times, and rider feedback to identify the stops and time periods where bunching was worst, then recommended targeted changes to scheduling and dispatch practices. After implementation, bunching-related complaints dropped by 18 percent. The project also gave frontline staff clear, accessible dashboards they could use every day, which I am proud of.
+
+I would welcome the chance to bring the same approach to Portland's transit system and help make service more reliable for riders.
 ````
 
 ## Sample 05
@@ -301,14 +307,14 @@ Released under the [MIT License](LICENSE).
 
 Cron-style job scheduling for async Python applications.
 
-tidepool runs recurring tasks inside your existing event loop, using cron expressions and plain `async def` functions. It needs no separate worker processes, threads, or external broker. Jobs start and stop with the rest of your application.
+tidepool runs recurring tasks inside your existing event loop, using cron expressions and plain `async def` functions. It needs no separate worker processes, threads, or external broker. Jobs start, run, and stop alongside the rest of your application.
 
 ## Features
 
-- Cron syntax: schedule jobs with standard five-field expressions.
-- Async-native: built on `asyncio`, so jobs never block your loop.
-- Lightweight: embed the scheduler directly in your app.
-- Typed: full type hints.
+- Schedule jobs with standard five-field cron expressions.
+- Built on `asyncio`, so jobs don't block your loop.
+- Embed the scheduler directly in your app.
+- Full type hints for editor support.
 
 ## Requirements
 
@@ -364,11 +370,11 @@ The Dom Luís I Bridge at sunset was the last stop. The Douro turned gold, and t
 
 Porto sneaks up on you, one tiled facade and crooked cobblestone lane at a time. I arrived on a Friday afternoon with a loose plan and a pair of comfortable shoes, and by Sunday evening I was already plotting my return.
 
-Saturday began at Livraria Lello, among the carved wooden shelves and the scarlet staircase, in a bookshop so beautiful it feels odd to call it a shop. Go early, buy your ticket ahead, and leave time to look up at the stained-glass ceiling.
+Saturday began among the carved wooden shelves and scarlet staircase of Livraria Lello, a bookshop so beautiful it feels almost unfair to call it a shop. Go early, buy your ticket ahead, and give yourself time to look up at the stained-glass ceiling.
 
-Lunch was a francesinha at Café Santiago: a towering sandwich of cured meats and steak, blanketed in melted cheese and drowned in a tomato-beer sauce. At 6 euros, it was the best-value meal of the trip, and I regret nothing.
+Lunch was a francesinha at Café Santiago, a towering sandwich of cured meats and steak, blanketed in melted cheese and drowned in a rich tomato-beer sauce. At 6 euros, it was the best-value meal of the trip. I regret nothing.
 
-The finale was sunset at the Dom Luís I Bridge, when the Douro turned to molten gold.
+I ended the day on the Dom Luís I Bridge at sunset, when the Douro turned to molten gold.
 ````
 
 ## Sample 07
@@ -434,29 +440,25 @@ Questions or feedback? Contact our support team.
 ````text
 # Fernwood 2.7.0
 
-## New
+## What's new
 
 ### Offline mode
+Fernwood now works without a connection. Your content stays available on a plane, in a tunnel, or anywhere without signal. Changes you make offline sync when you're back online.
 
-Fernwood now works without a connection. Your content stays available on a plane, in a tunnel, or anywhere without signal. Changes you make offline sync when you reconnect.
+## Improvements
 
-## Improved
+### Faster cold start
+The app now opens about 40 percent faster, even on older devices.
 
-### Cold start is about 40% faster
-
-We reworked how Fernwood loads at launch. The app opens about 40% faster, including on older devices.
-
-## Fixed
+## Bug fixes
 
 ### Android 15 login loop
-
-Some Android 15 users were sent back to the login screen repeatedly after signing in. Login now works.
+Some Android 15 users were sent back to the login screen repeatedly after signing in. That is fixed.
 
 ## Platform changes
 
-### iOS 16 is no longer supported
-
-Fernwood 2.7.0 requires iOS 17 or later. If you're on iOS 16, you can keep using your current version, but it won't receive further updates. Update your device to get new features and security fixes.
+### iOS 16 no longer supported
+Fernwood 2.7.0 requires iOS 17 or later. If you're on iOS 16, you can keep using your current version, but it won't receive further updates. Update your device to get the latest features and security fixes.
 
 Questions or feedback? Contact our support team.
 ````
@@ -506,11 +508,11 @@ Ana & Leila Haddad
 
 Saltmarsh Bakery began in 2011 with two sisters, a rented oven, and a shared belief that good bread shouldn't be complicated. Ana and Leila Haddad grew up in kitchens where bread was always on the table, and they opened their first shop in Portland, Maine, hoping to bring that same warmth to their neighbors.
 
-We bake 600 loaves a day. Each one starts with flour from a mill 40 miles away, where the grain is milled by people we know by name. Keeping our supply close means fresher flour, which gives better flavor, and it supports the local community. It also means our bread tastes like this place: the coast, the seasons, and the farmland just inland.
+Today we bake 600 loaves every day. Each one starts with flour from a mill just 40 miles away, where the grain is milled by people we know by name. Keeping our supply close means fresher flour and better flavor, and it strengthens the local community. It also means our bread tastes like this place: the coast, the seasons, and the farmland just inland.
 
 We work the old way. Our dough rises slowly, our loaves are shaped by hand, and our ovens start well before sunrise so the shelves are full when you walk in.
 
-Stop by for a morning baguette or a country loaf for dinner. We're glad you're here.
+Whether you want a morning baguette or a country loaf for dinner, we're glad you're here.
 
 Ana & Leila Haddad
 ````
@@ -550,13 +552,13 @@ Let's get into it.
 ### humanize-prose
 
 ````text
-Issue 112: Price Is a Product Decision
+**Issue 112: Price is a product decision**
 
-Welcome back. Few levers move a business as quickly as pricing, yet most teams touch it only a couple of times a year, and mostly on instinct. This week we treat price like any other product hypothesis: test it, measure it, and learn from the results. We cover practical ways to run pricing experiments without alienating existing customers or tripping over your own data.
+Welcome back. Most teams touch pricing only a couple of times a year, and mostly on instinct, even though few levers move a business faster. This week we treat price like any other product hypothesis: test it, measure it, and learn from it. We cover how to run pricing experiments without alienating existing customers or tripping over your own data.
 
-We're also sharing results from our new survey of 1,400 product managers, which shows how your peers spend their time, where they feel the most pressure, and what they wish they'd learned sooner. Some findings surprised us, and a few may change how you plan your next quarter.
+We also have results from our survey of 1,400 product managers on how they spend their time, where they feel the most pressure, and what they wish they'd learned sooner. Some findings surprised us, and a few may change how you plan your next quarter.
 
-Finally, we have an interview with Dana Whitfield, who shares candid lessons on making high-stakes calls with incomplete information.
+Dana Whitfield is our guest this week. She talks about making high-stakes calls with incomplete information.
 ````
 
 ## Sample 10
@@ -597,9 +599,9 @@ Expect concrete benchmarks, a few failed experiments, and a checklist you can ap
 
 Our first on-device model weighed 410 MB. On a 2 GB phone, that meant slow cold starts, background process kills, and users who uninstalled before the first prediction ever ran. Six months later, the same feature shipped at 38 MB with accuracy within a point of the original.
 
-This talk walks through how we got there, in the order that mattered: pruning, quantization, distillation, and architecture changes. We'll also look at which techniques paid off and which quietly cost us accuracy or latency. You'll see how we measured memory on real low-end hardware instead of trusting simulator numbers, and how we set size budgets that held up in CI.
+The talk covers the order of operations that mattered: pruning, quantization, distillation, and architecture changes. It also covers which techniques paid off and which quietly cost us accuracy or latency. You'll see how we measured memory on real low-end hardware instead of trusting simulator numbers, and how we set size budgets that held up in CI.
 
-Expect concrete benchmarks, a few failed experiments, and a checklist you can apply to your own models. If your users aren't all on flagship devices, this talk is for you.
+Expect concrete benchmarks, a few failed experiments, and a checklist you can apply to your own models. It's aimed at teams whose users aren't all on flagship devices.
 ````
 
 ## Sample 11
@@ -639,9 +641,9 @@ I'll post another update once we have a fix and a timeline.
 ````text
 Database migration update
 
-Team, the database migration finished on Tuesday and went better than planned. Downtime was 2 hours against the 6 we had budgeted, so customers were affected for far less time than we'd prepared them for.
+Team, the database migration wrapped up on Tuesday and went better than planned. Downtime was 2 hours against the 6 we had budgeted, so customers were affected for far less time than we'd prepared them for.
 
-Thanks to everyone for the prep work, the dry runs, and the quick coordination during the cutover.
+Thanks to everyone who did the prep work, ran the dry runs, and coordinated quickly during the cutover.
 
 One bug is still open in the billing export. It's our top priority for follow-up. If you know the export code or saw anything odd in billing data after the migration, please share it in this thread.
 
@@ -691,15 +693,15 @@ Customer Support Team
 ### humanize-prose
 
 ````text
-**Subject: Your duplicate charge has been refunded**
+Subject: Your duplicate charge has been refunded
 
 Hi Marcus,
 
-You're right: we charged you twice for your $29 Pro subscription on May 2. That was our error, and I'm sorry.
+You're right, we charged you twice for your $29 Pro subscription on May 2. That was our error, and I'm sorry.
 
-I've refunded the duplicate $29 charge. It usually takes 5 to 7 business days to appear on your statement, depending on your bank or card issuer. Your Pro subscription is still active.
+I've refunded the duplicate $29. It usually takes 5 to 7 business days to show up on your statement, depending on your bank or card issuer. Your Pro subscription is still active.
 
-If the refund hasn't shown up after 7 business days, reply to this email and I'll look into it right away.
+If the refund hasn't appeared after 7 business days, reply to this email and I'll look into it right away.
 
 Best regards,
 Customer Support Team
@@ -724,7 +726,7 @@ Cutting the number 42 bus would cost Leeds more than it saves. Every day, 3,100 
 ### humanize-prose
 
 ````text
-Cutting the number 42 bus would be a false economy that Leeds cannot afford. Every day, 3,100 people rely on this route. It links two hospitals, carrying patients to appointments, staff to shifts, and families to the bedsides of people they love. Those journeys cannot easily be postponed or replaced. A woman travelling to chemotherapy, a porter starting an early shift, a teenager visiting a grandparent on a ward: none of them has a convenient alternative if the service disappears. Taxis are costly, parking at both sites is notoriously limited, and many of these riders do not own a car. Remove the route and some will simply miss appointments, which means worse health outcomes and more expense for the NHS down the line. A council can find savings in many places, but a lifeline of this scale should not be among them. If the numbers on the spreadsheet look marginal, the council should improve frequency and reliability. Leeds should keep the 42.
+Cutting the number 42 bus would be a false economy for Leeds. Every day, 3,100 people rely on it. The route links two hospitals, so it carries patients to appointments, staff to shifts, and families to the bedsides of people they love. These journeys can't easily be postponed. A woman travelling to chemotherapy, a porter starting an early shift and a teenager visiting a grandparent on a ward have no convenient alternative if the service disappears. Taxis are costly, parking at both sites is notoriously limited, and many of these riders do not own a car. Some will miss appointments, which means worse health outcomes and more expense for the NHS down the line. If the numbers on the spreadsheet look marginal, the council should improve frequency and reliability. Leeds should keep the 42.
 ````
 
 ## Sample 14
@@ -760,11 +762,11 @@ It's vegetarian and easy to make vegan, and it keeps well in the fridge for lunc
 ````text
 Weeknight Red Lentil Soup with Cumin and Lemon
 
-This red lentil soup takes 35 minutes, one pot, and a few pantry staples, and it serves four. It comes out creamy and golden.
+This red lentil soup takes 35 minutes, one pot, and a handful of pantry staples. It makes four bowls, creamy and golden.
 
-Red lentils cook fast because they need no soaking. They break down as they simmer, so the soup turns silky without a blender. Toasted cumin adds warmth, and a good squeeze of fresh lemon at the end keeps it from tasting heavy.
+Red lentils cook fast. They need no soaking and break down into a silky texture as they simmer, so you don't need a blender. Toasted cumin adds warmth, and a squeeze of fresh lemon at the end keeps the soup from tasting heavy.
 
-It's vegetarian as written and vegan with a small swap. It keeps well in the fridge for lunches later in the week. Serve it with crusty bread or a dollop of yogurt.
+It's vegetarian, and vegan if you swap any dairy. It keeps well in the fridge for lunches later in the week. Serve it with crusty bread or a dollop of yogurt.
 ````
 
 ## Sample 15
@@ -808,19 +810,19 @@ Price: $480
 ### humanize-prose
 
 ````text
-Statistics for Product Teams
+**Statistics for Product Teams**
 
-A six-week online course for product managers, designers, engineers, and analysts who want to make decisions from data without a statistics degree.
+Statistics for Product Teams is a six-week online course for product managers, designers, engineers, and analysts who want to make decisions from data without a statistics degree.
 
-Dr. Helen Okafor teaches the concepts product teams use most: framing testable hypotheses, designing and running A/B tests, reading confidence intervals and p-values, avoiding peeking and underpowered experiments, and explaining uncertainty to stakeholders. Each week has short lessons, case studies, and exercises you can apply to your own product.
+Dr. Helen Okafor teaches the concepts teams use most: framing testable hypotheses, designing and running A/B tests, reading confidence intervals and p-values, avoiding peeking and underpowered experiments, and explaining uncertainty to stakeholders. Each week has short lessons, a real-world case study, and hands-on exercises you can apply to your own product.
 
-By the end, you'll be able to read experiment results critically, ask better questions of your data, and make recommendations you can defend.
+By the end, you'll be able to read experiment results critically, ask better questions of your data, and write recommendations you can defend.
 
 Start date: September 8
 Format: 6 weeks, online
 Price: $480
 
-Enroll to get started.
+Enroll to bring this to your team's next decision.
 ````
 
 ## Sample 16
@@ -888,28 +890,28 @@ To apply, send your resume and a short note about a system you're proud of build
 ### humanize-prose
 
 ````text
-# Backend engineer, Quillstone
+# Backend Engineer, Quillstone
 
-Toronto, ON | Hybrid (2 office days/week) | CAD 140,000 – 165,000
+**Toronto, ON | Hybrid (2 office days/week) | CAD 140,000 to 165,000**
 
-Quillstone is a 40-person fintech company in Toronto that builds financial infrastructure for its customers. The team is small, so your work ships quickly and people see it.
+Quillstone is a 40-person fintech company in Toronto. We build the financial infrastructure our customers use every day. The team is small, so your work ships quickly and people see it. The company is established enough that the problems are real.
 
 ## The role
 
-You'll design, build, and operate backend services in Go, backed by PostgreSQL. You'll own features from design through production, work with product and other engineers, and help decide how we build reliable, secure systems that handle money.
+You'll design, build, and run backend services in Go on PostgreSQL. You'll own features from design through production and work with product and other engineers. You'll also help decide how we build reliable, secure systems that handle money.
 
 ## What you bring
 
-- Experience building backend services, ideally in Go
+- Solid experience building backend services, ideally in Go
 - Strong PostgreSQL skills, including schema design and query optimization
 - Care about correctness, testing, and security
-- Clear communication and a collaborative mindset
+- Clear communication
 
 ## What we offer
 
-- Salary of CAD 140,000 – 165,000
+- Salary of CAD 140,000 to 165,000
 - Hybrid schedule with two days a week in our Toronto office
-- Ownership of your features on a small team
+- Ownership of your work on a small team
 
 To apply, send your resume and a short note about a system you're proud of building.
 ````
@@ -965,19 +967,19 @@ To the night shift crew at St. Brendan's: you taught me everything. Thank you fo
 ### humanize-prose
 
 ````text
-Ten years ago, I walked onto the third floor at St. Brendan's Hospital as a newly minted charge nurse, clutching a coffee and pretending I wasn't terrified. Today I'm a nurse manager, and I've been thinking about what a decade of 12-hour night shifts taught me.
+Ten years ago, I walked onto the third floor at St. Brendan's Hospital as a newly minted charge nurse, clutching a coffee and pretending I wasn't terrified.
 
-Nights have fewer people, fewer resources, and no one to escalate to at 3 a.m. except the person standing next to you. You learn fast that teamwork isn't a value on a poster. You need it to get through the shift.
+Today I'm a nurse manager, and I've been thinking about what a decade of 12-hour night shifts taught me.
 
-Trust is built in small moments. Someone covers your break without being asked. A colleague quietly restocks your supplies. Those favors add up.
+Nights strip away everything unnecessary. There are fewer people and fewer resources, and at 3 a.m. there is no one to escalate to except the person standing next to you. You learn quickly that teamwork is how you get through the shift.
+
+Trust is built in small moments. Someone covers your break without being asked, or a colleague quietly restocks your supplies. Those gestures add up.
 
 The best teams I've worked with say "I need help" before it's a crisis.
 
-Hour nine is hard, and a simple "How are you holding up?" can change someone's night.
+Hour nine is hard, and a simple "How are you holding up?" can change someone's night. Say thank you, and mean it.
 
-Say thank you when someone helps, and mean it.
-
-To the night shift crew at St. Brendan's: thank you for ten years. I learned most of what I know from you.
+To the night shift crew at St. Brendan's: you taught me everything. Thank you for ten years.
 
 #Nursing #NurseManager #Teamwork #Leadership #Healthcare
 ````
@@ -1016,7 +1018,7 @@ In the fourteenth century, a network of merchant towns stretching from London to
 **Salt and Iron: The Hanseatic Trade**
 *April 3 – August 30, 2026*
 
-In the fourteenth century, a network of merchant towns stretching from London to Novgorod reshaped the economy of northern Europe. Salt preserved the herring of the Baltic; iron, timber, furs, and grain filled the holds of ships that linked distant ports. This was the Hanseatic League, a confederation built on contracts and trust.
+In the fourteenth century, a network of merchant towns stretching from London to Novgorod reshaped the economy of northern Europe. Salt preserved the herring of the Baltic. Iron, timber, furs, and grain filled the holds of ships that linked distant ports. This was the Hanseatic League, a confederation built on contracts and trust.
 
 *Salt and Iron* brings together 140 objects that show how this trade shaped daily life, from merchants' seals and ledgers to tools, textiles, and ceramics carried across the water. The centerpiece is a massive oak timber from a 14th-century cog, the sturdy, broad-hulled ship that powered the League's rise. It still bears the marks of the hands that shaped it.
 ````
@@ -1052,13 +1054,13 @@ A community garden committee will run the project. Modest plot fees and surplus 
 ### humanize-prose
 
 ````text
-Project Summary: Durban Community Garden Initiative
+**Project Summary: Durban Community Garden Initiative**
 
-This proposal seeks R850,000 over 18 months to turn two vacant lots in Durban into a community garden with 60 individual and shared growing plots. The sites are currently used for illegal dumping and raise safety concerns. The project will reclaim them as productive green spaces for local households facing rising food costs and limited access to fresh produce.
+This proposal seeks R850,000 over 18 months to turn two vacant lots in Durban into a community garden with 60 individual and shared growing plots. The lots are currently used for illegal dumping and raise safety concerns. The garden will give local households, who face rising food costs and limited access to fresh produce, a place to grow their own food.
 
-Funds will cover site clearing and soil remediation, water harvesting and irrigation, fencing, tool storage, composting systems, and accessible pathways. Residents will receive training in organic cultivation, seed saving, and water-wise practices. Plots will go first to unemployed residents, women-headed households, and pensioners.
+Funds will pay for site clearing and soil remediation, water harvesting and irrigation, fencing, tool storage, composting systems, and accessible pathways. Residents will be trained in organic cultivation, seed saving, and water-wise practices. Plots will go first to unemployed residents, women-headed households, and pensioners.
 
-A community garden committee will govern the project. Modest plot fees and surplus produce sales will fund its upkeep. The project expects to improve household food security, strengthen neighbourhood cohesion, reduce illegal dumping, and build local green skills. By month 18, the garden will be self-managed, with a maintenance plan and partnerships in place to sustain operations beyond the grant period.
+A community garden committee will run the project. Modest plot fees and surplus produce sales will cover its costs over the long term. We expect better household food security, stronger neighbourhood cohesion, less illegal dumping, and more local green skills. By month 18 the garden will be self-managed, with a maintenance plan and partnerships in place to keep it running after the grant ends.
 ````
 
 ## Sample 20
@@ -1080,5 +1082,5 @@ When I moved from Chicago to Denver, nobody warned me that altitude would humble
 ### humanize-prose
 
 ````text
-When I moved from Chicago to Denver, nobody warned me that altitude would humble me in the kitchen. I'd been baking sourdough casually for years at sea-level-ish elevation, so I assumed my starter, Gerald, would travel just fine. He did not. My first loaf came out dense as a paving stone, with a crust that could have doubled as a frisbee. The second overproofed in the dry mountain air and slumped into a sad, sprawling pancake. The third looked gorgeous going in, then collapsed the moment I scored it, and I may have said some things to the oven. I almost gave up and bought a loaf from the bakery down the street. Instead, I read up on high-altitude adjustments, cut my proofing time, bumped up the hydration, and started covering the dough more carefully. Loaf number four finally rose tall, with a crackly crust and an open, tender crumb. I stood in my kitchen, tearing off warm pieces, feeling like I'd finally arrived in Colorado. Gerald and I have a rhythm now.
+When I moved from Chicago to Denver, nobody warned me that altitude would humble me in the kitchen. I'd been baking sourdough casually for years at sea-level-ish elevation, so I assumed my starter, Gerald, would travel just fine. He did not. My first loaf came out dense as a paving stone, with a crust that could have doubled as a frisbee. The second overproofed in the dry mountain air and slumped into a sad, sprawling pancake. The third looked gorgeous going in, then collapsed the moment I scored it, and I may have said some things to the oven. I almost gave up and bought a loaf from the bakery down the street. Instead, I read up on high-altitude adjustments, cut my proofing time, bumped up the hydration, and started covering the dough more carefully. Loaf number four finally rose tall, with a crackly crust and an open, tender crumb. I stood in my kitchen, tearing off warm pieces, feeling like I'd finally arrived in Colorado. Gerald and I have a real rhythm now.
 ````

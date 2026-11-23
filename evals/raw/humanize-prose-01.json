@@ -1,8 +1,8 @@
 {
- "result": "Northwind Analytics has closed a $3.2 million seed round led by Harbor Ventures. The round wrapped on March 4, 2026.\n\nWe started Northwind because we think teams shouldn't need a data science degree to make decisions from their data. There are 14 of us now, working on that with our customers.\n\nThe money will go toward hiring engineers and product people, building out the core analytics platform, and supporting the customers who signed on early.\n\nThank you to Harbor Ventures for backing us. Thank you also to our customers, advisors, families, and the Northwind team for the late nights and the honest feedback.\n\nWe're hiring. If you want to help build this, get in touch.\n\n#Startups #SeedFunding #Austin #Analytics #NorthwindAnalytics",
+ "result": "Northwind Analytics has closed a $3.2 million seed round led by Harbor Ventures. The round wrapped on March 4, 2026.\n\nWe started Northwind because we believed teams shouldn't need a data science degree to make decisions from their data. We're 14 people in Austin now, and the funding will go toward more engineers and product people, faster work on the core analytics platform, and support for the customers who signed on early.\n\nHarbor Ventures, thank you for backing us. We're glad to be building with you.\n\nTo our customers, advisors, families, and the Northwind team: thank you for the late nights and the honest feedback.\n\nWe're hiring. If you want to help build this, get in touch.\n\n#Startups #SeedFunding #Austin #Analytics #NorthwindAnalytics",
  "is_error": false,
  "model": "claude-sonnet-5-5",
- "duration_ms": 3270,
- "input_tokens": 5449,
- "output_tokens": 245
+ "duration_ms": 8165,
+ "input_tokens": 5655,
+ "output_tokens": 1036
 }

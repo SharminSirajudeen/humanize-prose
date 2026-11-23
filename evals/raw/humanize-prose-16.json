@@ -1,8 +1,8 @@
 {
- "result": "# Backend engineer, Quillstone\n\nToronto, ON | Hybrid (2 office days/week) | CAD 140,000 – 165,000\n\nQuillstone is a 40-person fintech company in Toronto that builds financial infrastructure for its customers. The team is small, so your work ships quickly and people see it.\n\n## The role\n\nYou'll design, build, and operate backend services in Go, backed by PostgreSQL. You'll own features from design through production, work with product and other engineers, and help decide how we build reliable, secure systems that handle money.\n\n## What you bring\n\n- Experience building backend services, ideally in Go\n- Strong PostgreSQL skills, including schema design and query optimization\n- Care about correctness, testing, and security\n- Clear communication and a collaborative mindset\n\n## What we offer\n\n- Salary of CAD 140,000 – 165,000\n- Hybrid schedule with two days a week in our Toronto office\n- Ownership of your features on a small team\n\nTo apply, send your resume and a short note about a system you're proud of building.",
+ "result": "# Backend Engineer, Quillstone\n\n**Toronto, ON | Hybrid (2 office days/week) | CAD 140,000 to 165,000**\n\nQuillstone is a 40-person fintech company in Toronto. We build the financial infrastructure our customers use every day. The team is small, so your work ships quickly and people see it. The company is established enough that the problems are real.\n\n## The role\n\nYou'll design, build, and run backend services in Go on PostgreSQL. You'll own features from design through production and work with product and other engineers. You'll also help decide how we build reliable, secure systems that handle money.\n\n## What you bring\n\n- Solid experience building backend services, ideally in Go\n- Strong PostgreSQL skills, including schema design and query optimization\n- Care about correctness, testing, and security\n- Clear communication\n\n## What we offer\n\n- Salary of CAD 140,000 to 165,000\n- Hybrid schedule with two days a week in our Toronto office\n- Ownership of your work on a small team\n\nTo apply, send your resume and a short note about a system you're proud of building.",
  "is_error": false,
  "model": "claude-sonnet-5-5",
- "duration_ms": 7069,
- "input_tokens": 5416,
- "output_tokens": 930
+ "duration_ms": 3143,
+ "input_tokens": 5622,
+ "output_tokens": 347
 }

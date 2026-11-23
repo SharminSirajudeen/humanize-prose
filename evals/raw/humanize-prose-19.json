@@ -1,8 +1,8 @@
 {
- "result": "Project Summary: Durban Community Garden Initiative\n\nThis proposal seeks R850,000 over 18 months to turn two vacant lots in Durban into a community garden with 60 individual and shared growing plots. The sites are currently used for illegal dumping and raise safety concerns. The project will reclaim them as productive green spaces for local households facing rising food costs and limited access to fresh produce.\n\nFunds will cover site clearing and soil remediation, water harvesting and irrigation, fencing, tool storage, composting systems, and accessible pathways. Residents will receive training in organic cultivation, seed saving, and water-wise practices. Plots will go first to unemployed residents, women-headed households, and pensioners.\n\nA community garden committee will govern the project. Modest plot fees and surplus produce sales will fund its upkeep. The project expects to improve household food security, strengthen neighbourhood cohesion, reduce illegal dumping, and build local green skills. By month 18, the garden will be self-managed, with a maintenance plan and partnerships in place to sustain operations beyond the grant period.",
+ "result": "**Project Summary: Durban Community Garden Initiative**\n\nThis proposal seeks R850,000 over 18 months to turn two vacant lots in Durban into a community garden with 60 individual and shared growing plots. The lots are currently used for illegal dumping and raise safety concerns. The garden will give local households, who face rising food costs and limited access to fresh produce, a place to grow their own food.\n\nFunds will pay for site clearing and soil remediation, water harvesting and irrigation, fencing, tool storage, composting systems, and accessible pathways. Residents will be trained in organic cultivation, seed saving, and water-wise practices. Plots will go first to unemployed residents, women-headed households, and pensioners.\n\nA community garden committee will run the project. Modest plot fees and surplus produce sales will cover its costs over the long term. We expect better household food security, stronger neighbourhood cohesion, less illegal dumping, and more local green skills. By month 18 the garden will be self-managed, with a maintenance plan and partnerships in place to keep it running after the grant ends.",
  "is_error": false,
  "model": "claude-sonnet-5-5",
- "duration_ms": 3243,
- "input_tokens": 5424,
- "output_tokens": 358
+ "duration_ms": 3268,
+ "input_tokens": 5630,
+ "output_tokens": 353
 }

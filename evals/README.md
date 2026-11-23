@@ -19,8 +19,9 @@ Run on 2026-11-24 with claude-sonnet-5-5 through Claude Code 2.1.329. Full table
 
 - Tells: both skills removed every strong tell. The samples carried only 3 to begin with, so this run says more about cost and damage than about cleanup.
 - Facts: a tie. blader/humanizer dropped 9 items across 4 samples, humanize-prose 7 across 3.
-- Cost: humanize-prose used 56% fewer input tokens per run (5,389 against 12,300).
-- Rhythm: avoid-ai-writing flagged uniform sentence length or punctuation in 4 humanize-prose rewrites and in none of blader's.
+- Cost: humanize-prose used 55% fewer input tokens per run (5,595 against 12,300).
+- Rhythm: in the first run, avoid-ai-writing flagged uniform sentence length or punctuation in 4 humanize-prose rewrites and in none of blader's. SKILL.md now treats flat rhythm as a tell (pattern 9 and the self-check), and the humanize-prose arm was rerun with it: 3 rewrites flagged, and a mean sentence-length spread of 0.52 against blader's 0.50 (0.47 before).
+- Tuning: the rhythm rule was tuned over four reruns of the humanize-prose arm on these same samples, so its rhythm figures are a development result, not a held-out test. The samples and the blader/humanizer outputs are from the first run.
 
 ## Files
 
