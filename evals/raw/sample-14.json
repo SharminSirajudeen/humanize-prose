@@ -1,0 +1,8 @@
+{
+ "result": "**Weeknight Red Lentil Soup with Cumin and Lemon**\n\nSome nights call for a dinner that asks very little of you and still delivers. This red lentil soup is exactly that. In just 35 minutes, with one pot and a handful of pantry staples, you'll have a bowl that's creamy, golden, and deeply comforting, enough to serve four.\n\nRed lentils are the secret to its speed. Unlike other legumes, they need no soaking and break down into a silky texture as they simmer, so there's no blender required. Toasted cumin brings warmth and earthiness, while a generous squeeze of fresh lemon at the end brightens every spoonful and keeps the soup from tasting heavy.\n\nIt's naturally vegetarian, easily made vegan, and keeps beautifully in the fridge for lunches later in the week. Serve it with crusty bread or a dollop of yogurt, and call it a night. Dinner is handled.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 3693,
+ "input_tokens": 620,
+ "output_tokens": 309
+}

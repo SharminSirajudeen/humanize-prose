@@ -1,0 +1,8 @@
+{
+ "result": "# Backend Engineer, Quillstone\n\n**Toronto, ON | Hybrid (2 office days/week) | CAD 140,000 – 165,000**\n\nQuillstone is a 40-person fintech company in Toronto building the financial infrastructure our customers rely on every day. We're small enough that your work ships quickly and visibly, and established enough to give you real problems to solve.\n\n**The role**\n\nYou'll design, build, and operate backend services in Go, backed by PostgreSQL. You'll own features from design through production, work closely with product and fellow engineers, and help shape how we build reliable, secure systems that handle money.\n\n**What you bring**\n\n- Solid experience building backend services, ideally in Go\n- Strong PostgreSQL skills, including schema design and query optimization\n- A careful approach to correctness, testing, and security\n- Clear communication and a collaborative mindset\n\n**What we offer**\n\n- Salary of CAD 140,000 – 165,000\n- Hybrid schedule with two days a week in our Toronto office\n- Meaningful ownership on a small, focused team\n\nTo apply, send your resume and a short note about a system you're proud of building.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 4326,
+ "input_tokens": 648,
+ "output_tokens": 372
+}

@@ -1,0 +1,8 @@
+{
+ "result": "I have six years of experience as a data analyst, and my work has centered on turning operational data into decisions that make people's days easier. That is why the Portland transit department appeals to me.\n\nIn my most recent role, I led an analysis of service patterns and schedule adherence to find out why buses were arriving in clusters, leaving riders with long waits followed by crowded vehicles. I combined GPS location data, dwell times, and rider feedback to find the stops and time periods where bunching was worst, then recommended changes to scheduling and dispatch. After they were put in place, bunching-related complaints dropped by 18 percent. I am also proud that the project gave frontline staff clear dashboards they could use every day.\n\nI would like to bring that same mix of technical rigor, collaboration, and focus on riders to Portland's transit system and help make service more reliable.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 2898,
+ "input_tokens": 12255,
+ "output_tokens": 269
+}

@@ -1,0 +1,8 @@
+{
+ "result": "**Subject: Your duplicate charge has been refunded**\n\nHi Marcus,\n\nYou're right: we charged you twice for your $29 Pro subscription on May 2. That was our error, and I'm sorry.\n\nI've refunded the duplicate $29 charge. It usually takes 5 to 7 business days to appear on your statement, depending on your bank or card issuer. Your Pro subscription is still active.\n\nIf the refund hasn't shown up after 7 business days, reply to this email and I'll look into it right away.\n\nBest regards,\nCustomer Support Team",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 2057,
+ "input_tokens": 5291,
+ "output_tokens": 181
+}

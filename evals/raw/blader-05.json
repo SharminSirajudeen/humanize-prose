@@ -1,0 +1,8 @@
+{
+ "result": "# tidepool\n\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)\n[![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)\n[![Version 0.4.0](https://img.shields.io/badge/version-0.4.0-green.svg)](https://github.com/)\n\nCron-style job scheduling for async Python applications.\n\ntidepool lets you run recurring tasks inside your existing event loop, using familiar cron expressions and plain `async def` functions. There are no separate worker processes, no threads to manage, and no external broker to deploy. Jobs start, run, and stop alongside the rest of your application.\n\n## Features\n\n- Schedule jobs with standard five-field cron expressions.\n- Built on `asyncio`, so jobs never block your loop.\n- Embed the scheduler directly in your app.\n- Full type hints for a better editor experience.\n\n## Requirements\n\nPython 3.11 or later.\n\n## Installation\n\n```bash\npip install tidepool\n```\n\n## License\n\nReleased under the [MIT License](LICENSE).",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 6918,
+ "input_tokens": 12413,
+ "output_tokens": 901
+}

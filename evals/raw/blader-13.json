@@ -1,0 +1,8 @@
+{
+ "result": "Cutting the number 42 bus would cost Leeds more than it saves. Every day, 3,100 people rely on this route, which links two hospitals and carries patients to appointments, staff to shifts, and families to people on the wards. These journeys can't easily be postponed or replaced. A woman travelling to chemotherapy, a porter starting an early shift, and a teenager visiting a grandparent have no convenient alternative if the service disappears. Taxis are costly, parking at both sites is notoriously limited, and many of these riders do not own a car. Some will miss appointments, which means worse health outcomes and more expense for the NHS down the line. A council can find savings in many places, but a route this many people depend on should not be one of them. If the numbers on the spreadsheet look marginal, improve frequency and reliability instead of abandoning the people who use it. Leeds should keep the 42.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 7941,
+ "input_tokens": 12286,
+ "output_tokens": 993
+}

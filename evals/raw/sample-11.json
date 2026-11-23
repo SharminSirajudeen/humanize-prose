@@ -1,0 +1,8 @@
+{
+ "result": "**Database migration update** 🎉\n\nTeam, the database migration wrapped up on Tuesday, and it went better than we planned. Downtime came in at **2 hours** versus the 6 we had budgeted, which means customers were affected for far less time than we'd prepared them for.\n\nThat outcome is thanks to the careful prep work, the dry runs, and the quick coordination during the cutover. Great job, everyone.\n\n**One open item:** there's still a bug in the billing export. We're tracking it and it's our top priority for follow-up. If you have context on the export code or saw anything odd in billing data after the migration, please share it in this thread.\n\nI'll post another update once we have a fix and a timeline. Thanks again for the strong effort.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 3611,
+ "input_tokens": 634,
+ "output_tokens": 234
+}

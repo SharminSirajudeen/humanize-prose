@@ -1,0 +1,8 @@
+{
+ "result": "# About Saltmarsh Bakery\n\nSaltmarsh Bakery began in 2011 with two sisters and a rented oven. Ana and Leila Haddad grew up in kitchens where bread was always on the table, and they opened their first shop in Portland, Maine, to bring that same warmth to their neighbors. They believed good bread shouldn't be complicated.\n\nToday, we bake 600 loaves every day. Each one starts with flour from a mill 40 miles away, where the grain is milled by people we know by name. Keeping our supply close means fresher flour and better flavor, and it supports the local community. Our bread tastes like this place: the coast and the farmland just inland.\n\nWe work the old way. Our dough rises slowly and our loaves are shaped by hand. Our ovens start well before sunrise so the shelves are full when you walk in.\n\nWhether you stop by for a morning baguette or a country loaf for dinner, we're glad you're here.\n\nAna & Leila Haddad",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 9548,
+ "input_tokens": 12313,
+ "output_tokens": 1402
+}

@@ -1,0 +1,8 @@
+{
+ "result": "# Forty-Eight Hours in Porto\n\nSome cities announce themselves with grand gestures. Porto sneaks up on you, one tiled facade and crooked cobblestone lane at a time. I arrived on a Friday afternoon with a loose plan and a pair of comfortable shoes, and by Sunday evening I was already plotting my return.\n\nSaturday began among the carved wooden shelves and sweeping scarlet staircase of Livraria Lello, a bookshop so beautiful it feels almost unfair to call it a shop. Go early, buy your ticket ahead, and give yourself time to simply look up at the stained-glass ceiling.\n\nLunch was a lesson in glorious excess: a francesinha at Café Santiago, a towering sandwich of cured meats and steak, blanketed in melted cheese and drowned in a rich tomato-beer sauce. At just 6 euros, it was the best-value meal of the trip, and I regret nothing.\n\nBut the finale belonged to the Dom Luís I Bridge at sunset, when the Douro turned to molten gold and the whole city seemed to exhale.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 4596,
+ "input_tokens": 652,
+ "output_tokens": 368
+}

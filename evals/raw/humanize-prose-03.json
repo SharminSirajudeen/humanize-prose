@@ -1,0 +1,8 @@
+{
+ "result": "**Subject:** Cutting month-end close from 9 days to 4\n\nHi [First Name],\n\nOne of our pilot customers used to take nine days to close the books, and invoice reconciliation was the biggest bottleneck. After switching to Ledgerline, their close dropped to 4 days.\n\nLedgerline automatically matches invoices against purchase orders and payments, flags exceptions for review, and leaves your team to handle only the ones that need a person.\n\nI'd love for your team at [Company] to try it. The 30-day free trial has no commitment and requires no credit card. We'll help with setup, so you can see results within your next close cycle.\n\nWould you be open to a 15-minute call this week or next to see if it's a fit? If it's easier, just reply \"interested\" and I'll send over trial details.\n\nBest,\n\nPriya Raman\nFounder, Ledgerline\n[Phone] | [Website]",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 6483,
+ "input_tokens": 5433,
+ "output_tokens": 912
+}

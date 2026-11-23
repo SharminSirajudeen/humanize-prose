@@ -1,0 +1,8 @@
+{
+ "result": "**Shipping On-Device ML on a 2 GB Phone**\n*Tomas Ferreira, MobileConf 2026, Lisbon*\n\nOur first on-device model weighed 410 MB. On a 2 GB phone, that meant slow cold starts, background process kills, and users who uninstalled before the first prediction ever ran. Six months later, the same feature shipped at 38 MB with accuracy within a point of the original.\n\nThis talk walks through how we got there, in the order that mattered: pruning, quantization, distillation, and architecture changes. We'll also look at which techniques paid off and which quietly cost us accuracy or latency. You'll see how we measured memory on real low-end hardware instead of trusting simulator numbers, and how we set size budgets that held up in CI.\n\nExpect concrete benchmarks, a few failed experiments, and a checklist you can apply to your own models. If your users aren't all on flagship devices, this talk is for you.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 5526,
+ "input_tokens": 5365,
+ "output_tokens": 760
+}

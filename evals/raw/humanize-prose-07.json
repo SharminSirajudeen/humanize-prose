@@ -1,0 +1,8 @@
+{
+ "result": "# Fernwood 2.7.0\n\n## New\n\n### Offline mode\n\nFernwood now works without a connection. Your content stays available on a plane, in a tunnel, or anywhere without signal. Changes you make offline sync when you reconnect.\n\n## Improved\n\n### Cold start is about 40% faster\n\nWe reworked how Fernwood loads at launch. The app opens about 40% faster, including on older devices.\n\n## Fixed\n\n### Android 15 login loop\n\nSome Android 15 users were sent back to the login screen repeatedly after signing in. Login now works.\n\n## Platform changes\n\n### iOS 16 is no longer supported\n\nFernwood 2.7.0 requires iOS 17 or later. If you're on iOS 16, you can keep using your current version, but it won't receive further updates. Update your device to get new features and security fixes.\n\nQuestions or feedback? Contact our support team.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 2882,
+ "input_tokens": 5403,
+ "output_tokens": 285
+}

@@ -1,0 +1,8 @@
+{
+ "result": "**Project Summary: Durban Community Garden Initiative**\n\nThis proposal seeks R850,000 over 18 months to transform two vacant, underused lots in Durban into a thriving community garden with 60 individual and shared growing plots. The sites, currently sources of illegal dumping and safety concerns, will be reclaimed as productive green spaces serving local households facing rising food costs and limited access to fresh produce.\n\nFunds will support site clearing and soil remediation, water harvesting and irrigation, fencing, tool storage, composting systems, and accessible pathways. Residents will receive training in organic cultivation, seed saving, and water-wise practices, with priority allocation of plots to unemployed residents, women-headed households, and pensioners.\n\nA community garden committee will govern the project, ensuring local ownership and long-term sustainability through modest plot fees and surplus produce sales. Anticipated outcomes include improved household food security, stronger neighbourhood cohesion, reduced illegal dumping, and increased local green skills. By month 18, the garden will be self-managed, with a maintenance plan and partnerships in place to sustain operations beyond the grant period.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 4411,
+ "input_tokens": 628,
+ "output_tokens": 380
+}

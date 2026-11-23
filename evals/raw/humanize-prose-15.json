@@ -1,0 +1,8 @@
+{
+ "result": "Statistics for Product Teams\n\nA six-week online course for product managers, designers, engineers, and analysts who want to make decisions from data without a statistics degree.\n\nDr. Helen Okafor teaches the concepts product teams use most: framing testable hypotheses, designing and running A/B tests, reading confidence intervals and p-values, avoiding peeking and underpowered experiments, and explaining uncertainty to stakeholders. Each week has short lessons, case studies, and exercises you can apply to your own product.\n\nBy the end, you'll be able to read experiment results critically, ask better questions of your data, and make recommendations you can defend.\n\nStart date: September 8\nFormat: 6 weeks, online\nPrice: $480\n\nEnroll to get started.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 2722,
+ "input_tokens": 5380,
+ "output_tokens": 242
+}

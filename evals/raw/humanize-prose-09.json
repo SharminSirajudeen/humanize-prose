@@ -1,0 +1,8 @@
+{
+ "result": "Issue 112: Price Is a Product Decision\n\nWelcome back. Few levers move a business as quickly as pricing, yet most teams touch it only a couple of times a year, and mostly on instinct. This week we treat price like any other product hypothesis: test it, measure it, and learn from the results. We cover practical ways to run pricing experiments without alienating existing customers or tripping over your own data.\n\nWe're also sharing results from our new survey of 1,400 product managers, which shows how your peers spend their time, where they feel the most pressure, and what they wish they'd learned sooner. Some findings surprised us, and a few may change how you plan your next quarter.\n\nFinally, we have an interview with Dana Whitfield, who shares candid lessons on making high-stakes calls with incomplete information.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 6903,
+ "input_tokens": 5338,
+ "output_tokens": 980
+}
