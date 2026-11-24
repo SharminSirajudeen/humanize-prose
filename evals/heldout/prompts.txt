@@ -1,0 +1,20 @@
+Write a LinkedIn post announcing that Corvid Labs, a 9-person design studio in Leeds, won a £120,000 contract with the Yorkshire Ambulance Service on June 12, 2026. About 170 words.
+Write a product description for the Alder 3 burr coffee grinder: 40 grind settings, a 250-gram hopper, a steel conical burr, priced at $219, with a 2-year warranty. About 150 words.
+Write a cold email from Marco Bellini, co-founder of Shiftboard, to a hospital operations manager, offering a free pilot of a nurse scheduling tool that cut overtime hours by 22 percent at a 300-bed hospital. About 150 words.
+Write the opening section of a README for quillmark, an open-source command-line tool (Apache 2.0 license, version 1.2.0) that converts Markdown notes into a static website and needs Node.js 20 or later. About 150 words.
+Write release notes for version 5.1 of the Larkspur budgeting app: shared budgets for up to 6 people, CSV import from 12 banks, a fix for duplicate transactions on sync, and a new dark mode. About 150 words.
+Write a travel blog introduction about three days in Kyoto, Japan, mentioning the Fushimi Inari shrine at 6 a.m., a 900 yen bowl of ramen near Kyoto Station, and the Philosopher's Path in autumn. About 180 words.
+Write an internal memo announcing that the Denver office moves to 1550 Wazee Street on October 1, with 2 fewer floors, a new bike room, and desks booked through an app. About 150 words.
+Write a podcast episode description for episode 48 of Field Notes, a conversation with marine biologist Dr. Amara Osei about tracking 200 tagged sea turtles off the coast of Ghana. About 150 words.
+Write the introduction to an annual report for the Riverside Food Bank, which served 18,400 families in 2025 and opened a second warehouse in Fresno. About 160 words.
+Write a press release paragraph announcing that the Halden Public Library will stay open until 9 p.m. on weekdays starting January 5, funded by a $75,000 grant from the Brightwater Foundation. About 150 words.
+Write a Slack message from a product manager telling the team that the checkout redesign launched on Monday, conversion rose from 3.1 percent to 3.6 percent in the first week, and the Safari payment bug is still open. About 120 words.
+Write an email apologizing to a customer named Julia whose order of two ceramic planters, number 48213, shipped 9 days late; a 15 percent refund has been applied. About 120 words.
+Write a restaurant review paragraph about Osteria Lume in Melbourne, mentioning the 14-seat counter, a $34 cacio e pepe, and the 6-week wait for a booking. About 170 words.
+Write a real estate listing for a 3-bedroom, 2-bathroom house at 42 Orchard Lane in Ithaca, New York, built in 1928, with a renovated kitchen and an asking price of $415,000. About 150 words.
+Write a course description for Practical Kotlin Coroutines, a 4-week online course taught by Ines Moreau, starting February 2 and costing $320. About 150 words.
+Write a job post for a product designer at Brightpath, a 60-person health-tech company in Berlin, working in Figma, with a salary of EUR 70,000 to 85,000 and 3 office days a week. About 170 words.
+Write a LinkedIn post by a high school chemistry teacher reflecting on 15 years at Westbrook High and what running the after-school robotics club taught him about failure. About 180 words.
+Write a museum exhibit description for Paper Engines: The Age of Mechanical Calculators, open May 10 to October 4, 2026, featuring 85 machines including an 1851 arithmometer. About 150 words.
+Write a grant proposal summary for a youth coding program in Nairobi that will train 240 students across 4 schools, with a budget of KES 6.2 million over 2 years. About 160 words.
+Write a personal blog paragraph about learning to swim at 34 after moving from Phoenix to Seattle, including the 11 lessons it took to swim one full length. About 170 words.
