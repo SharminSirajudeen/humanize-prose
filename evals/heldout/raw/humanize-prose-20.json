@@ -1,0 +1,8 @@
+{
+ "result": "When I moved from Phoenix to Seattle at 34, I expected the rain to be the hard part. Then I had to admit I couldn't swim. In Arizona, pools were for floating near with a drink. In Seattle, surrounded by lakes, the sound, and people who kayak on weekends, I felt that gap every time someone invited me out on the water. So I signed up for adult lessons and stood in the shallow end with a handful of equally nervous beginners. The first few sessions were humbling. I practiced blowing bubbles, kicking while holding a foam board, and trusting that my body would actually float. By lesson six, I could glide a few strokes before panicking. In lesson nine, I finally figured out breathing. On lesson eleven, I pushed off the wall, kept my face in the water, and swam one full length of the pool without stopping. I grabbed the edge, gasping and grinning like I'd won a medal. It wasn't pretty. Next up: the lake, once it warms up.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 6877,
+ "input_tokens": 5593,
+ "output_tokens": 961
+}

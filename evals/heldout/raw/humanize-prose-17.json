@@ -1,0 +1,8 @@
+{
+ "result": "Fifteen years at Westbrook High. I started as a chemistry teacher who thought my job was to prevent mistakes. I'm ending this chapter knowing it's to make them useful.\n\nThe after-school robotics club taught me more than my classroom did.\n\nAt our first competition, the robot drove straight off the table. Eleven seconds. Months of work, gone. The students stared at the floor, and I had no speech ready, because in my lab, failure meant a bad grade. In robotics, failure is data.\n\nOne student picked up the robot, looked at the wiring, and said, \"Okay, so what did it tell us?\" That question changed how I teach.\n\nNow my chemistry students write down what went wrong before they write down what went right. Failed titrations get celebrated. Unexpected precipitates get investigated.\n\nI've watched teenagers who were terrified of being wrong become people who say, \"Let's find out why.\"\n\nTo my students, past and present: thank you for letting me learn alongside you.\n\n#Teaching #STEM #Robotics #Education",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 7119,
+ "input_tokens": 5634,
+ "output_tokens": 1094
+}

@@ -1,0 +1,8 @@
+{
+ "result": "**Subject:** Our apologies for the delay with order #48213\n\nDear Julia,\n\nI'm sorry that your order of two ceramic planters (order #48213) arrived nine days later than promised. We know you were counting on receiving it on time, and we fell short of that.\n\nTo make up for the inconvenience, we've applied a 15 percent refund to your original payment. You should see it reflected on your statement within a few business days, depending on your bank.\n\nThank you for your patience and for choosing us. We're reviewing what caused this delay so it doesn't happen again. If there's anything else we can do, please reply to this email and we'll be glad to help.\n\nWarm regards,\n\n[Your Name]\n[Company Name]\n[Contact Information]",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 2830,
+ "input_tokens": 627,
+ "output_tokens": 234
+}

@@ -1,0 +1,8 @@
+{
+ "result": "**Introduction**\n\nIn 2025, Riverside Food Bank served 18,400 families. Many of them were choosing between groceries and rent, medicine, or school supplies. They included seniors, working parents, and children, and they left with food.\n\nWe also opened a second warehouse in Fresno, which gives us more room to store, sort, and distribute fresh and shelf-stable food across a wider region. The new facility lets us reach more families and respond faster in a crisis. It also lets us work more closely with local farmers, grocers, and volunteers.\n\nOur donors, staff, and volunteers made this possible. This report covers what we accomplished together, and we will keep working until no family in our community goes hungry.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 2663,
+ "input_tokens": 12254,
+ "output_tokens": 222
+}

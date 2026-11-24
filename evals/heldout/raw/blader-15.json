@@ -1,0 +1,8 @@
+{
+ "result": "Practical Kotlin Coroutines\n\nThis four-week online course teaches you to write concurrent Kotlin for production, using coroutines in place of callbacks and threads.\n\nInes Moreau leads the course. It starts with suspending functions, coroutine builders, and structured concurrency, then moves to dispatchers, cancellation, and exception handling. Later weeks cover Flow, channels, and shared state, and how to test asynchronous code.\n\nEach week combines short lessons with hands-on exercises based on everyday problems, such as fetching data in parallel, building responsive UIs, and managing background work. By the end, you'll be able to replace callbacks and threads with coroutine-based designs and debug concurrency issues when they arise.\n\n- Starts: February 2\n- Duration: 4 weeks, online\n- Instructor: Ines Moreau\n- Price: $320\n\nBasic Kotlin knowledge is recommended.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 9001,
+ "input_tokens": 12334,
+ "output_tokens": 1151
+}

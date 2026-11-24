@@ -1,0 +1,8 @@
+{
+ "result": "# quillmark\n\n[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)\n![Version](https://img.shields.io/badge/version-1.2.0-green.svg)\n![Node.js](https://img.shields.io/badge/node-%E2%89%A520-brightgreen.svg)\n\nquillmark is an open-source command-line tool that turns your Markdown notes into a static website. Point it at a folder of `.md` files, run one command, and deploy the result to any static host. It needs no server, database, or configuration.\n\nIt works for a personal knowledge base, project documentation, or a blog. Your notes stay as plain Markdown files you own, and the output is lightweight HTML you can host anywhere.\n\n## Requirements\n\n- Node.js 20 or later\n\n## Quick start\n\n```sh\nnpm install -g quillmark\nquillmark build ./notes --out ./site\n```\n\n## License\n\nquillmark v1.2.0 is released under the [Apache License 2.0](LICENSE).",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 3089,
+ "input_tokens": 12340,
+ "output_tokens": 344
+}

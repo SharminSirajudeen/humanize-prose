@@ -1,0 +1,8 @@
+{
+ "result": "Three Days in Kyoto: Temples, Ramen, and Falling Leaves\n\nKyoto takes time to get to know, and three days is enough to see why people go back.\n\nMy first morning began at 6 a.m. at Fushimi Inari. Mist still clung to the hillside, and the thousands of vermilion torii gates glowed in the early light. A few other early risers were on the path, so the climb felt almost private. I heard birdsong and the crunch of gravel underfoot.\n\nBy midday I was hungry, and I found a tiny counter near Kyoto Station. A 900 yen bowl of ramen arrived with rich broth, springy noodles, and tender chashu. For that price it was hard to beat.\n\nThen I walked the Philosopher's Path in autumn, along a canal under maples gone red and gold. Leaves drifted onto the water.\n\nThe rest of this guide lays out the three days in order, from sunrise shrines to slow afternoon walks.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 3367,
+ "input_tokens": 5624,
+ "output_tokens": 312
+}

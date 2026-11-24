@@ -1,0 +1,8 @@
+{
+ "result": "FOR IMMEDIATE RELEASE\n\nHalden Public Library to Extend Weekday Hours With $75,000 Brightwater Foundation Grant\n\nHALDEN, The Halden Public Library will stay open until 9 p.m. on weekdays beginning January 5, thanks to a $75,000 grant from the Brightwater Foundation. Residents have long asked for more evening access to the library's books, computers, study spaces, and programs. Students, working parents, job seekers, and others who can't visit during the day will have several more hours each weekday to borrow materials, use the free internet, attend workshops, or find a quiet place to read and work.\n\n\"We are grateful to the Brightwater Foundation for investing in our community,\" said a library representative. \"Extending our hours means more neighbors can use everything the library offers.\"\n\nThe grant will cover staffing and operating costs for the longer hours. The full schedule is available at the library's front desk and on its website.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 7021,
+ "input_tokens": 12422,
+ "output_tokens": 894
+}

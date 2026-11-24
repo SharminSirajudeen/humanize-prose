@@ -1,0 +1,8 @@
+{
+ "result": "Osteria Lume is the kind of Melbourne restaurant that rewards patience, and patience is exactly what it demands: the current wait for a booking stretches to six weeks. Once you finally claim a stool at the 14-seat counter, though, the delay begins to feel justified. There's no hiding here. You sit inches from the cooks, watching them toss pasta, shave cheese, and plate with unhurried precision, and the room hums with the clatter of pans and easy conversation. The $34 cacio e pepe is the dish to order, and it's a quiet masterclass. The sauce is glossy and peppery, clinging to every strand, with a sharp, salty depth from the pecorino that never tips into heaviness. It's simple food executed with obvious discipline. Yes, $34 is steep for a plate of pasta, and the scarcity of seats makes the experience feel almost exclusive. But the intimacy, the craft, and the generosity of the staff make it feel earned. Book early, arrive hungry, and don't rush a single bite.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 4547,
+ "input_tokens": 637,
+ "output_tokens": 339
+}

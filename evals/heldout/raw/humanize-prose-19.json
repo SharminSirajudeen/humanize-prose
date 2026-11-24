@@ -1,0 +1,8 @@
+{
+ "result": "Nairobi Youth Code Initiative: project summary\n\nThe Nairobi Youth Code Initiative will teach practical digital skills to 240 secondary school students at four partner schools. Kenya's technology sector is growing, but many young people in Nairobi's under-resourced neighborhoods have no access to computers, qualified instructors, or structured learning.\n\nOver two years, the program will teach web development, Python programming, and problem-solving in a progressive curriculum. Each school will host weekly after-school sessions led by trained facilitators in a dedicated computer lab. Students will complete hands-on projects that address community challenges. Top performers will get mentorship and internship placements with local technology partners. We will prioritize girls' participation and aim for at least 50 percent enrollment.\n\nThe total budget is KES 6.2 million. It covers equipment, facilitator training and stipends, curriculum materials, connectivity, mentorship, and evaluation, and works out to roughly KES 25,800 per student. We will measure success through skills assessments, project portfolios, retention rates, and post-program tracking of education and employment outcomes.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 3097,
+ "input_tokens": 5653,
+ "output_tokens": 363
+}

@@ -1,0 +1,8 @@
+{
+ "result": "**Paper Engines: The Age of Mechanical Calculators**\n*May 10 to October 4, 2026*\n\nBefore silicon, there were gears, levers, and brass. *Paper Engines* follows the century when inventors taught machines to count and changed how commerce and science worked.\n\nEighty-five calculating machines fill the galleries, from desktop models to the sturdy machines used in banks, railways, and observatories. The centerpiece is an 1851 arithmometer, one of the earliest calculators made commercially, used by clerks and engineers across Europe. Its stepped drum mechanism is still crisp after more than 170 years, housed in a polished wooden case.\n\nVisitors can turn a crank and read the results, and learn how these machines worked, who built them, and why their makers believed arithmetic could be automated.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 8972,
+ "input_tokens": 12368,
+ "output_tokens": 1258
+}

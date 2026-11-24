@@ -1,0 +1,8 @@
+{
+ "result": "# Larkspur 5.1 Release Notes\n\nLarkspur 5.1 adds shared budgets, CSV import from 12 banks, and a dark mode.\n\n## What's new\n\nShared budgets: You can now share a budget with up to 6 people, which suits household expenses, trips, or group projects. Everyone sees the same up-to-date numbers.\n\nCSV import: Larkspur now supports CSV import from 12 major banks, so you can load past transactions in a few steps.\n\nDark mode: Switch to the new dark mode in Settings, or let Larkspur follow your device's appearance. It is easier on the eyes at night.\n\n## Fixes\n\n- Some transactions appeared twice after syncing. This is fixed, so balances and reports should stay accurate.\n\nLarkspur 5.1 is available now.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 2713,
+ "input_tokens": 12298,
+ "output_tokens": 263
+}

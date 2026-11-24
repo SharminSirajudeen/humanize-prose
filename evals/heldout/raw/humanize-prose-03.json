@@ -1,0 +1,8 @@
+{
+ "result": "**Subject:** Cutting nurse overtime without cutting corners\n\nHi [First Name],\n\nOvertime is hard for hospital operations teams to control, especially when schedules are built around last-minute call-outs and coverage gaps.\n\nAt a 300-bed hospital, our nurse scheduling tool reduced overtime hours by 22 percent. It balances staffing needs, nurse preferences, and certification requirements automatically, so managers spend less time patching holes in the schedule.\n\nI'd like to offer [Hospital Name] a free pilot on one or two units, with no long-term commitment. We handle setup and training, and you'll see results in your own data before deciding anything.\n\nWould you be open to a 15-minute call next week to see if it's a fit?\n\nBest regards,\n\nMarco Bellini\nCo-founder, Shiftboard\n[Phone] | [Email]",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 2591,
+ "input_tokens": 5542,
+ "output_tokens": 281
+}

@@ -1,0 +1,8 @@
+{
+ "result": "42 Orchard Lane, Ithaca, NY: 1928 three-bedroom home\n\nThis 3-bedroom, 2-bathroom house was built in 1928 and keeps its original architectural details. The living spaces get plenty of sun.\n\nThe kitchen has been fully renovated, with updated cabinetry, countertops, and appliances. One of the bedrooms can serve as a guest room or home office, and the two bathrooms are both full.\n\nThe house sits on a quiet, tree-lined street, close to Cornell University, Ithaca College, downtown shops and restaurants, the farmers markets, and Cayuga Lake. The region's gorges and waterfalls are nearby.\n\nOffered at $415,000. To schedule a showing, contact the listing agent.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 7725,
+ "input_tokens": 12360,
+ "output_tokens": 940
+}

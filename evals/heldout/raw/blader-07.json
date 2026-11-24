@@ -1,0 +1,8 @@
+{
+ "result": "**Subject: Denver office moving to 1550 Wazee Street on October 1**\n\nHi team,\n\nOur Denver office will move to 1550 Wazee Street on October 1.\n\nThe new space has two fewer floors, which lowers our costs and puts teams closer together. It also has a dedicated, secure bike room for people who commute by bike. Desks will be reserved through an app, so you can plan your in-office days and pick a spot that suits your work.\n\nIn the coming weeks, Facilities will send packing guidelines, move-day logistics, and onboarding instructions for the booking app. Please start sorting and clearing out personal items from your current workspace.\n\nIf you have questions or accessibility needs, contact the Facilities team at any time. We'll keep you updated as the move approaches.\n\nThank you for your flexibility and enthusiasm as we settle into the new space.\n\nBest,\n[Name]\n[Title]",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 7792,
+ "input_tokens": 12357,
+ "output_tokens": 1048
+}

@@ -1,0 +1,8 @@
+{
+ "result": "Osteria Lume in Melbourne is booked about six weeks out. The wait is easier to forgive once you have a stool at the 14-seat counter, inches from the cooks as they toss pasta, shave cheese, and plate it without hurry. The room is full of clattering pans and easy conversation.\n\nOrder the $34 cacio e pepe. The sauce is glossy and peppery and clings to every strand, and the pecorino gives it a sharp, salty depth without making it heavy. $34 is steep for a plate of pasta, and with so few seats the place feels almost exclusive. But the staff are generous, and sitting that close to the cooking makes the price easier to accept. Book early, and don't rush a bite.",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 7309,
+ "input_tokens": 12293,
+ "output_tokens": 909
+}

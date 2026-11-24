@@ -1,0 +1,8 @@
+{
+ "result": "Corvid Labs has won a £120,000 contract with the Yorkshire Ambulance Service. We found out on 12 June 2026.\n\nWe're a 9-person design studio in Leeds, and this is one of the biggest projects we've taken on. The ambulance service reaches people on some of the hardest days of their lives. We'll work with that in mind.\n\nFor the people delivering care, clear design means less time spent working out how a system behaves. We'll start by talking to them about where the current tools slow them down.\n\nEveryone in the studio helped build the reputation that got us this contract, and we're glad to be putting it to work in our home region.\n\nThank you to the Yorkshire Ambulance Service team for their trust. We start soon.\n\n#Design #Leeds #Yorkshire #NHS #PublicSector #DesignStudio",
+ "is_error": false,
+ "model": "claude-sonnet-5-5",
+ "duration_ms": 3303,
+ "input_tokens": 5599,
+ "output_tokens": 264
+}
