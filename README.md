@@ -37,7 +37,7 @@ python3 scripts/check.py verify draft.md new.md   # numbers, names, links, and c
 
 ## Results
 
-On 20 AI-written samples rewritten by Claude Sonnet 5.5 with no tools, humanize-prose matched blader/humanizer 4.0.0 on tells removed and facts kept, at 55% fewer input tokens per run (5,595 against 12,300). The first version wrote flatter rhythm, so SKILL.md now treats flat rhythm as a tell. Sentence lengths in its rewrites now vary slightly more than blader's on average, though avoid-ai-writing's detector still flags uniform sentence length or punctuation in 3 of them and in none of blader's. The method, tables, and every output are in [evals/](evals/).
+On 20 AI-written samples rewritten by Claude Sonnet 5.5 with no tools, humanize-prose matched blader/humanizer 4.0.0 on tells removed and facts kept, at 55% fewer input tokens per run (5,595 against 12,300). The first version wrote flatter rhythm, so SKILL.md now treats flat rhythm as a tell. On 20 new held-out prompts, committed before the run, humanize-prose again matched on tells and facts, varied sentence length more (a spread of 0.56 against 0.53), drew 4 avoid-ai-writing findings to blader's 5, and used 54% fewer input tokens. The method, tables, and every output are in [evals/](evals/).
 
 ## Scope
 

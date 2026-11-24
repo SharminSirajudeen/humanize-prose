@@ -1,0 +1,722 @@
+[
+ {
+  "sample": "01",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 173,
+    "rhythm": 0.49734501762611383,
+    "detector_score": 7,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 129,
+    "rhythm": 0.4799945916407045,
+    "dropped": 0,
+    "input_tokens": 12303,
+    "output_tokens": 262,
+    "detector_score": 9,
+    "detector_findings": 1
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 134,
+    "rhythm": 0.5213208715394919,
+    "dropped": 0,
+    "input_tokens": 5599,
+    "output_tokens": 264,
+    "detector_score": 8,
+    "detector_findings": 1
+   }
+  }
+ },
+ {
+  "sample": "02",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 154,
+    "rhythm": 0.5506594287321456,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 122,
+    "rhythm": 0.44805411044971966,
+    "dropped": 0,
+    "input_tokens": 12297,
+    "output_tokens": 256,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 118,
+    "rhythm": 0.47184443752796795,
+    "dropped": 0,
+    "input_tokens": 5593,
+    "output_tokens": 255,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "03",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 131,
+    "rhythm": 0.48944336189039517,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 126,
+    "rhythm": 0.4196604465524535,
+    "dropped": 0,
+    "input_tokens": 12246,
+    "output_tokens": 286,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 123,
+    "rhythm": 0.3412697863709814,
+    "dropped": 0,
+    "input_tokens": 5542,
+    "output_tokens": 281,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "04",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 129,
+    "rhythm": 1.288382185673752,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 111,
+    "rhythm": 1.102952597806844,
+    "dropped": 0,
+    "input_tokens": 12340,
+    "output_tokens": 344,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 114,
+    "rhythm": 1.120439474217423,
+    "dropped": 0,
+    "input_tokens": 5636,
+    "output_tokens": 345,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "05",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 3,
+    "words": 161,
+    "rhythm": 0.5264423827841311,
+    "detector_score": 2,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 1,
+    "words": 119,
+    "rhythm": 0.6777057904457177,
+    "dropped": 0,
+    "input_tokens": 12298,
+    "output_tokens": 263,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 119,
+    "rhythm": 0.5509366384297176,
+    "dropped": 0,
+    "input_tokens": 5594,
+    "output_tokens": 257,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "06",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 173,
+    "rhythm": 0.3387302965082916,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 151,
+    "rhythm": 0.30935021759275927,
+    "dropped": 0,
+    "input_tokens": 12328,
+    "output_tokens": 1365,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 157,
+    "rhythm": 0.5045534878265878,
+    "dropped": 0,
+    "input_tokens": 5624,
+    "output_tokens": 312,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "07",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 3,
+    "words": 198,
+    "rhythm": 0.4145107985592564,
+    "detector_score": 2,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 146,
+    "rhythm": 0.41232649159705237,
+    "dropped": 3,
+    "input_tokens": 12357,
+    "output_tokens": 1048,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 129,
+    "rhythm": 0.5262760952711218,
+    "dropped": 3,
+    "input_tokens": 5653,
+    "output_tokens": 1254,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "08",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 150,
+    "rhythm": 0.6846897107449476,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 129,
+    "rhythm": 0.6574996204229465,
+    "dropped": 0,
+    "input_tokens": 12255,
+    "output_tokens": 810,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 132,
+    "rhythm": 0.7272727272727273,
+    "dropped": 0,
+    "input_tokens": 5551,
+    "output_tokens": 744,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "09",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 160,
+    "rhythm": 0.2650176880889274,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 115,
+    "rhythm": 0.3856597715049858,
+    "dropped": 0,
+    "input_tokens": 12254,
+    "output_tokens": 222,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 117,
+    "rhythm": 0.43362909039199393,
+    "dropped": 0,
+    "input_tokens": 5550,
+    "output_tokens": 1479,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "10",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 1,
+    "weak": 0,
+    "words": 239,
+    "rhythm": 0.4845888864686116,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 149,
+    "rhythm": 0.44522154285504,
+    "dropped": 1,
+    "input_tokens": 12422,
+    "output_tokens": 894,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 152,
+    "rhythm": 0.502503451216351,
+    "dropped": 1,
+    "input_tokens": 5718,
+    "output_tokens": 1410,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "11",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 1,
+    "weak": 0,
+    "words": 130,
+    "rhythm": 0.7191795855458858,
+    "detector_score": 4,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 91,
+    "rhythm": 0.576949609690164,
+    "dropped": 2,
+    "input_tokens": 12219,
+    "output_tokens": 177,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 93,
+    "rhythm": 0.5830718981295626,
+    "dropped": 2,
+    "input_tokens": 5515,
+    "output_tokens": 723,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "12",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 123,
+    "rhythm": 0.3874391075591498,
+    "detector_score": 15,
+    "detector_findings": 2
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 88,
+    "rhythm": 0.47128275803017544,
+    "dropped": 0,
+    "input_tokens": 12188,
+    "output_tokens": 183,
+    "detector_score": 20,
+    "detector_findings": 2
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 88,
+    "rhythm": 0.511742284054441,
+    "dropped": 0,
+    "input_tokens": 5484,
+    "output_tokens": 177,
+    "detector_score": 20,
+    "detector_findings": 2
+   }
+  }
+ },
+ {
+  "sample": "13",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 168,
+    "rhythm": 0.47455074828558924,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 123,
+    "rhythm": 0.523301952577369,
+    "dropped": 0,
+    "input_tokens": 12293,
+    "output_tokens": 909,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 113,
+    "rhythm": 0.4398149960987319,
+    "dropped": 0,
+    "input_tokens": 5589,
+    "output_tokens": 809,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "14",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 1,
+    "weak": 1,
+    "words": 158,
+    "rhythm": 0.31847457279516767,
+    "detector_score": 3,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 103,
+    "rhythm": 0.5817956608380052,
+    "dropped": 3,
+    "input_tokens": 12360,
+    "output_tokens": 940,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 104,
+    "rhythm": 0.4772951402304176,
+    "dropped": 3,
+    "input_tokens": 5656,
+    "output_tokens": 258,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "15",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 154,
+    "rhythm": 0.3122289683161379,
+    "detector_score": 2,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 127,
+    "rhythm": 0.34663560162291557,
+    "dropped": 0,
+    "input_tokens": 12334,
+    "output_tokens": 1151,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 146,
+    "rhythm": 0.36731747062443626,
+    "dropped": 0,
+    "input_tokens": 5630,
+    "output_tokens": 347,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "16",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 1,
+    "weak": 1,
+    "words": 182,
+    "rhythm": 1.0045783371899186,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 1,
+    "words": 181,
+    "rhythm": 1.1992132378070604,
+    "dropped": 0,
+    "input_tokens": 12325,
+    "output_tokens": 356,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 1,
+    "words": 182,
+    "rhythm": 1.2452784878319283,
+    "dropped": 0,
+    "input_tokens": 5621,
+    "output_tokens": 1216,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "17",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 189,
+    "rhythm": 0.5983035692588767,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 181,
+    "rhythm": 0.5728590210263552,
+    "dropped": 0,
+    "input_tokens": 12338,
+    "output_tokens": 1103,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 167,
+    "rhythm": 0.5960785921639303,
+    "dropped": 0,
+    "input_tokens": 5634,
+    "output_tokens": 1094,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "18",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 198,
+    "rhythm": 0.26990685284620985,
+    "detector_score": 3,
+    "detector_findings": 1
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 123,
+    "rhythm": 0.15100955789436352,
+    "dropped": 3,
+    "input_tokens": 12368,
+    "output_tokens": 1258,
+    "detector_score": 8,
+    "detector_findings": 2
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 121,
+    "rhythm": 0.25257366594935743,
+    "dropped": 3,
+    "input_tokens": 5664,
+    "output_tokens": 1501,
+    "detector_score": 5,
+    "detector_findings": 1
+   }
+  }
+ },
+ {
+  "sample": "19",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 171,
+    "rhythm": 0.42865833932945957,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 176,
+    "rhythm": 0.449179191193242,
+    "dropped": 0,
+    "input_tokens": 12357,
+    "output_tokens": 387,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 163,
+    "rhythm": 0.46685182298904815,
+    "dropped": 0,
+    "input_tokens": 5653,
+    "output_tokens": 363,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ },
+ {
+  "sample": "20",
+  "model": "claude-sonnet-5-5",
+  "metrics": {
+   "original": {
+    "strong": 0,
+    "weak": 0,
+    "words": 184,
+    "rhythm": 0.45013650523584037,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "blader": {
+    "strong": 0,
+    "weak": 0,
+    "words": 169,
+    "rhythm": 0.4687272046673035,
+    "dropped": 0,
+    "input_tokens": 12297,
+    "output_tokens": 914,
+    "detector_score": 0,
+    "detector_findings": 0
+   },
+   "humanize-prose": {
+    "strong": 0,
+    "weak": 0,
+    "words": 172,
+    "rhythm": 0.524610649103748,
+    "dropped": 0,
+    "input_tokens": 5593,
+    "output_tokens": 961,
+    "detector_score": 0,
+    "detector_findings": 0
+   }
+  }
+ }
+]

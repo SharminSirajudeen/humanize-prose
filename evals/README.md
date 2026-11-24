@@ -21,7 +21,16 @@ Run on 2026-11-24 with claude-sonnet-5-5 through Claude Code 2.1.329. Full table
 - Facts: a tie. blader/humanizer dropped 9 items across 4 samples, humanize-prose 7 across 3.
 - Cost: humanize-prose used 55% fewer input tokens per run (5,595 against 12,300).
 - Rhythm: in the first run, avoid-ai-writing flagged uniform sentence length or punctuation in 4 humanize-prose rewrites and in none of blader's. SKILL.md now treats flat rhythm as a tell (pattern 9 and the self-check), and the humanize-prose arm was rerun with it: 3 rewrites flagged, and a mean sentence-length spread of 0.52 against blader's 0.50 (0.47 before).
-- Tuning: the rhythm rule was tuned over four reruns of the humanize-prose arm on these same samples, so its rhythm figures are a development result, not a held-out test. The samples and the blader/humanizer outputs are from the first run.
+- Tuning: the rhythm rule was tuned over four reruns of the humanize-prose arm on these same samples, so its rhythm figures are a development result, not a held-out test. The samples and the blader/humanizer outputs are from the first run. The held-out set below checks the rule on new prompts.
+
+## Held-out set
+
+`heldout/` holds 20 new prompts, written after the rhythm rule was tuned and committed (69271a4) before they were run. Same model and settings, run on 2026-11-24 with `run.py --set evals/heldout`. Full tables are in `heldout/results.md`.
+
+- Tells: both skills removed all 4 strong tells. avoid-ai-writing found 5 issues in blader's rewrites and 4 in humanize-prose's.
+- Facts: a tie, 12 items each, dropped in the same 5 samples.
+- Rhythm: mean sentence-length spread 0.56 for humanize-prose against 0.53 for blader/humanizer and for the originals. avoid-ai-writing flagged uniform sentence length or punctuation in 1 rewrite from each skill.
+- Cost: humanize-prose used 54% fewer input tokens per run (5,605 against 12,309).
 
 ## Files
 
